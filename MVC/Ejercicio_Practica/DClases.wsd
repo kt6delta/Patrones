@@ -1,0 +1,95 @@
+@startuml DClases
+
+package controller {
+    class Controller {
+        - ventana : Ventana
+        - directorio : Directorio
+        + Controller()
+        + asignarOyentes() : void
+        + actionPerformed(e : ActionEvent) : void
+    }
+
+    class AplMain {
+        + main(args : String[]) : void
+    }
+}
+
+package model {
+    class Directorio {
+        - listado : ArrayList<Contacto>
+        + Directorio()
+        + getListado() : ArrayList<Contacto>
+        + setListado(listado : ArrayList<Contacto>) : void
+    }
+
+    class Contacto {
+        - nombre : String
+        - edad : int
+        + Contacto()
+        + Contacto(nombre : String, edad : int)
+        + getNombre() : String
+        + setNombre(nombre : String) : void
+        + getEdad() : int
+        + setEdad(edad : int) : void
+        + toString() : String
+    }
+}
+
+package view {
+    class Ventana {
+        - p1 : PanelTitulo
+        - p3 : PanelResultados
+        - menubar : JMenuBar
+        - menu : JMenu
+        - contactos : JMenu
+        - buscar : JMenuItem
+        - salir : JMenuItem
+        + Ventana()
+        + inicializarComponentes() : void
+        + getP1() : PanelTitulo
+        + setP1(p1 : PanelTitulo) : void
+        + getP3() : PanelResultados
+        + setP3(p3 : PanelResultados) : void
+        + getMenubar() : JMenuBar
+        + setMenubar(menubar : JMenuBar) : void
+        + getMenu() : JMenu
+        + setMenu(menu : JMenu) : void
+        + getContactos() : JMenu
+        + setContactos(contactos : JMenu) : void
+        + getBuscar() : JMenuItem
+        + setBuscar(buscar : JMenuItem) : void
+        + getSalir() : JMenuItem
+        + setSalir(salir : JMenuItem) : void
+    }
+
+    class PanelTitulo {
+        - titulo : JLabel
+        + PanelTitulo()
+        + inicializarComponentes() : void
+        + getTitulo() : JLabel
+        + setTitulo(titulo : JLabel) : void
+    }
+
+    class PanelResultados {
+        - foto : JLabel
+        - nombre : JLabel
+        - edad : JLabel
+        + PanelResultados()
+        + cambiarImagen(nom : String) : void
+        + getFoto() : JLabel
+        + setFoto(foto : JLabel) : void
+        + getNombre() : JLabel
+        + setNombre(nombre : JLabel) : void
+        + getEdad() : JLabel
+        + setEdad(edad : JLabel) : void
+    }
+}
+
+Controller --> Ventana : uses
+Controller --> Directorio : uses
+Ventana --> PanelResultados : uses
+Ventana --> PanelTitulo : uses
+Directorio --> Contacto : contains
+AplMain --> Controller : instantiates
+
+@enduml

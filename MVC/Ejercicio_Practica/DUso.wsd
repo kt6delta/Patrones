@@ -1,0 +1,13 @@
+@startuml
+actor Usuario
+boundary Ventana
+control Controller
+entity Directorio
+
+Usuario -> Controller : IniciaAplicación()
+Controller -> Directorio : new()
+Controller -> Ventana : new()
+Controller -> Ventana : asignarOyentes()
+Ventana -> Usuario : MuestraVentana()
+
+@enduml

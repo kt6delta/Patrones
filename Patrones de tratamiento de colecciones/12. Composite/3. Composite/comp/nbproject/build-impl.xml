@@ -1,0 +1,637 @@
+﻿<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3c.org/TR/1999/REC-html401-19991224/loose.dtd">
+<!-- saved from url=(0047)http://www.haskell.org/haskellwiki/Introduction -->
+<HTML lang=en xml:lang="en" xmlns="http://www.w3.org/1999/xhtml"><HEAD><TITLE>Introduction - HaskellWiki</TITLE>
+<META content=Introduction name=KEYWORDS>
+<META http-equiv=Content-type content="text/html; charset=utf-8">
+<META content=index,follow name=robots><LINK href="/favicon.ico" 
+rel="shortcut icon"><LINK title="Creative Commons" 
+href="/haskellwiki/?title=Introduction&amp;action=creativecommons" 
+type=application/rdf+xml rel=meta><LINK 
+href="/haskellwiki/HaskellWiki:Copyrights" rel=copyright><LINK media=print 
+href="Introduction - HaskellWiki_archivos/wikiprintable.css" type=text/css 
+rel=stylesheet>
+<SCRIPT src="Introduction - HaskellWiki_archivos/wikibits.js" 
+type=text/javascript></SCRIPT>
+
+<STYLE type=text/css>@import url( /sitewiki/skins/common/common.css );
+@import url( /haskellwiki/?title=MediaWiki:Quiet.css&action=raw&ctype=text/css );
+A.new {
+	COLOR: #cc2200
+}
+#quickbar A.new {
+	COLOR: #cc2200
+}
+.editsection {
+	DISPLAY: none
+}
+</STYLE>
+
+<META content="MSHTML 6.00.2900.2180" name=GENERATOR></HEAD>
+<BODY bgColor=#ffffff onload="">
+<DIV id=main-box>
+<DIV id=inner-box>
+<DIV id=topbar>
+<P><A href="http://www.haskell.org/haskellwiki/Haskell"><IMG alt=[Haskell] 
+src="Introduction - HaskellWiki_archivos/haskellwiki_logo.png"></A></P></DIV>
+<DIV id=content>
+<DIV id=article>
+<H1 class=pagetitle>Introduction</H1>
+<P>Haskell is a computer programming language. In particular, it is a 
+<I>polymorphicly typed, lazy, purely functional </I>language, quite different 
+from most other programming languages. The language is named for <A 
+title="Haskell Brooks Curry" 
+href="http://www.haskell.org/haskellwiki/Haskell_Brooks_Curry">Haskell Brooks 
+Curry</A>, whose work in mathematical logic serves as a foundation for 
+functional languages. Haskell is based on <I>lambda calculus</I>, hence the 
+lambda we use as a logo. </P>
+<P><BR></P>
+<TABLE class=toc id=toc>
+  <TBODY>
+  <TR>
+    <TD>
+      <DIV id=toctitle>
+      <H2>Contents</H2></DIV>
+      <UL>
+        <LI class=toclevel-1><A 
+        href="http://www.haskell.org/haskellwiki/Introduction#Why_Use_Haskell.3F"><SPAN 
+        class=tocnumber>1</SPAN> <SPAN class=toctext>Why Use Haskell?</SPAN></A> 
+
+        <UL>
+          <LI class=toclevel-2><A 
+          href="http://www.haskell.org/haskellwiki/Introduction#What_is_functional_programming.3F"><SPAN 
+          class=tocnumber>1.1</SPAN> <SPAN class=toctext>What is functional 
+          programming?</SPAN></A> 
+          <LI class=toclevel-2><A 
+          href="http://www.haskell.org/haskellwiki/Introduction#What.27s_good_about_functional_programming.3F"><SPAN 
+          class=tocnumber>1.2</SPAN> <SPAN class=toctext>What's good about 
+          functional programming?</SPAN></A> 
+          <UL>
+            <LI class=toclevel-3><A 
+            href="http://www.haskell.org/haskellwiki/Introduction#Quicksort_in_Haskell"><SPAN 
+            class=tocnumber>1.2.1</SPAN> <SPAN class=toctext>Quicksort in 
+            Haskell</SPAN></A> 
+            <LI class=toclevel-3><A 
+            href="http://www.haskell.org/haskellwiki/Introduction#Quicksort_in_C"><SPAN 
+            class=tocnumber>1.2.2</SPAN> <SPAN class=toctext>Quicksort in 
+            C</SPAN></A> 
+            <LI class=toclevel-3><A 
+            href="http://www.haskell.org/haskellwiki/Introduction#1._Brevity"><SPAN 
+            class=tocnumber>1.2.3</SPAN> <SPAN class=toctext>1. 
+            Brevity</SPAN></A> 
+            <LI class=toclevel-3><A 
+            href="http://www.haskell.org/haskellwiki/Introduction#2._Ease_of_understanding"><SPAN 
+            class=tocnumber>1.2.4</SPAN> <SPAN class=toctext>2. Ease of 
+            understanding</SPAN></A> 
+            <LI class=toclevel-3><A 
+            href="http://www.haskell.org/haskellwiki/Introduction#3._No_core_dumps"><SPAN 
+            class=tocnumber>1.2.5</SPAN> <SPAN class=toctext>3. No core 
+            dumps</SPAN></A> 
+            <LI class=toclevel-3><A 
+            href="http://www.haskell.org/haskellwiki/Introduction#4._Code_re-use"><SPAN 
+            class=tocnumber>1.2.6</SPAN> <SPAN class=toctext>4. Code 
+            re-use</SPAN></A> 
+            <LI class=toclevel-3><A 
+            href="http://www.haskell.org/haskellwiki/Introduction#5._Strong_glue"><SPAN 
+            class=tocnumber>1.2.7</SPAN> <SPAN class=toctext>5. Strong 
+            glue</SPAN></A> 
+            <LI class=toclevel-3><A 
+            href="http://www.haskell.org/haskellwiki/Introduction#6._Powerful_abstractions"><SPAN 
+            class=tocnumber>1.2.8</SPAN> <SPAN class=toctext>6. Powerful 
+            abstractions</SPAN></A> 
+            <LI class=toclevel-3><A 
+            href="http://www.haskell.org/haskellwiki/Introduction#7._Built-in_memory_management"><SPAN 
+            class=tocnumber>1.2.9</SPAN> <SPAN class=toctext>7. Built-in memory 
+            management</SPAN></A> </LI></UL>
+          <LI class=toclevel-2><A 
+          href="http://www.haskell.org/haskellwiki/Introduction#When_C_is_better"><SPAN 
+          class=tocnumber>1.3</SPAN> <SPAN class=toctext>When C is 
+          better</SPAN></A> 
+          <UL>
+            <LI class=toclevel-3><A 
+            href="http://www.haskell.org/haskellwiki/Introduction#Functional_vs_imperative"><SPAN 
+            class=tocnumber>1.3.1</SPAN> <SPAN class=toctext>Functional vs 
+            imperative</SPAN></A> </LI></UL>
+          <LI class=toclevel-2><A 
+          href="http://www.haskell.org/haskellwiki/Introduction#What_is_Haskell.3F"><SPAN 
+          class=tocnumber>1.4</SPAN> <SPAN class=toctext>What is 
+          Haskell?</SPAN></A> 
+          <LI class=toclevel-2><A 
+          href="http://www.haskell.org/haskellwiki/Introduction#Does_Anyone_Use_Functional_Programming.3F"><SPAN 
+          class=tocnumber>1.5</SPAN> <SPAN class=toctext>Does Anyone Use 
+          Functional Programming?</SPAN></A> 
+          <LI class=toclevel-2><A 
+          href="http://www.haskell.org/haskellwiki/Introduction#Other_frequently-asked_questions"><SPAN 
+          class=tocnumber>1.6</SPAN> <SPAN class=toctext>Other frequently-asked 
+          questions</SPAN></A> </LI></UL></LI></UL></TD></TR></TBODY></TABLE>
+<P>
+<SCRIPT type=text/javascript> if (window.showTocToggle) { var tocShowText = "show"; var tocHideText = "hide"; showTocToggle(); } </SCRIPT>
+</P>
+<DIV class=editsection style="FLOAT: right; MARGIN-LEFT: 5px">[<A 
+title=Introduction 
+href="http://www.haskell.org/haskellwiki/?title=Introduction&amp;action=edit&amp;section=1">edit</A>]</DIV><A 
+name=Why_Use_Haskell.3F></A>
+<H2>Why Use Haskell? </H2>
+<P>Writing large software systems that work is difficult and expensive. 
+Maintaining those systems is even more difficult and expensive. Functional 
+programming languages, such as Haskell, can make it easier and cheaper. For 
+example, a new user who wrote a small relational DBMS in Haskell had this to 
+say: </P>
+<BLOCKQUOTE>WOW! I basically wrote this without testing just thinking about my 
+  program in terms of transformations between types. I wrote the test/example 
+  code and had almost no implementation errors in the code! The 
+  compiler/type-system is really really good at preventing you from making 
+  coding mistakes! I've never in my life had a block of code this big work on 
+  the first try. I am WAY impressed. </BLOCKQUOTE>
+<P>Even if you are not in a position to use Haskell in your programming 
+projects, learning Haskell can make you a better programmer in any language. 
+</P>
+<BLOCKQUOTE>I learned Haskell a couple of years ago, having previously 
+  programmed in Python and (many) other languages. Recently, I've been using 
+  Python for a project (the choice being determined by both technical and 
+  non-technical issues), and find my Python programming style is now heavily 
+  influenced (for the better, I hope&nbsp;;-) by my Haskell programming 
+  experience.<BR><BR>Graham Klyne </BLOCKQUOTE>
+<P><BR>Haskell offers you: </P>
+<UL>
+  <LI>Substantially increased programmer productivity (Ericsson measured an 
+  improvement factor of between 9 and 25 in one set of experiments on telephony 
+  software). 
+  <LI>Shorter, clearer, and more maintainable code. 
+  <LI>Fewer errors, higher reliability. 
+  <LI>A smaller "semantic gap" between the programmer and the language. 
+  <LI>Shorter lead times. </LI></UL>
+<P>Haskell is a wide-spectrum language, suitable for a variety of applications. 
+It is particularly suitable for programs which need to be highly modifiable and 
+maintainable. </P>
+<P>Much of a software product's life is spent in <I>specification</I>, 
+<I>design</I> and <I>maintenance</I>, and not in <I>programming</I>. Functional 
+languages are superb for writing specifications which can actually be executed 
+(and hence tested and debugged). Such a specification then <I>is</I> the first 
+prototype of the final program. </P>
+<P>Functional programs are also relatively easy to maintain, because the code is 
+shorter, clearer, and the rigorous control of side effects eliminates a huge 
+class of unforseen interactions. </P>
+<DIV class=editsection style="FLOAT: right; MARGIN-LEFT: 5px">[<A 
+title=Introduction 
+href="http://www.haskell.org/haskellwiki/?title=Introduction&amp;action=edit&amp;section=2">edit</A>]</DIV><A 
+name=What_is_functional_programming.3F></A>
+<H3>What is functional programming? </H3>
+<P>C, Java, Pascal, Ada, and so on, are all <I>imperative</I> languages. They 
+are "imperative" in the sense that they consist of a sequence of commands, which 
+are executed strictly one after the other. Haskell is a <I>functional</I> 
+language. A functional program is a single expression, which is executed by 
+evaluating the expression. </P>
+<P>Anyone who has used a spreadsheet has experience of functional programming. 
+In a spreadsheet, one specifies the value of each cell in terms of the values of 
+other cells. The focus is on <I>what</I> is to be computed, not <I>how</I> it 
+should be computed. For example: </P>
+<UL>
+  <LI>we do not specify the order in which the cells should be calculated 
+  -&nbsp;instead we take it for granted that the spreadsheet will compute cells 
+  in an order which respects their dependencies. 
+  <LI>we do not tell the spreadsheet how to allocate its memory -&nbsp;rather, 
+  we expect it to present us with an apparently infinite plane of cells, and to 
+  allocate memory only to those cells which are actually in use. 
+  <LI>for the most part, we specify the value of a cell by an <I>expression</I> 
+  (whose parts can be evaluated in any order), rather by a <I>sequence of 
+  commands </I>which computes its value. </LI></UL>
+<P>An interesting consequence of the spreadsheet's unspecified order of 
+re-calculation is that the notion of assignment is not very useful. After all, 
+if you don't know exactly when an assignment will happen, you can't make much 
+use of it! This contrasts strongly with programs in conventional languages like 
+C, which consist essentially of a carefully-specified sequence of assignments, 
+or Java, in which the ordering of method calls is crucial to the meaning of a 
+program. </P>
+<P>This focus on the high-level "what" rather than the low-level "how" is a 
+distinguishing characteristic of functional programming languages. </P>
+<P>Another well-known nearly-functional language is the standard database query 
+language SQL. An SQL query is an expression involving projections, selections, 
+joins and so forth. The query says what relation should be computed, without 
+saying how it should be computed. Indeed, the query can be evaluated in any 
+convenient order. SQL implementations often perform extensive query optimisation 
+which (among other things) figures out the best order in which to evaluate the 
+expression. </P>
+<DIV class=editsection style="FLOAT: right; MARGIN-LEFT: 5px">[<A 
+title=Introduction 
+href="http://www.haskell.org/haskellwiki/?title=Introduction&amp;action=edit&amp;section=3">edit</A>]</DIV><A 
+name=What.27s_good_about_functional_programming.3F></A>
+<H3>What's good about functional programming? </H3>
+<P>Spreadsheets and SQL are both fairly specialised languages. Functional 
+programming languages take the same ideas, and move them into the realm of 
+general-purpose programming. To get an idea of what a functional program is 
+like, look at the following quicksort programs. They both sort a sequence of 
+numbers into ascending order using a standard method called "quicksort". The 
+first program is written in Haskell and the second in C. </P>
+<DIV class=editsection style="FLOAT: right; MARGIN-LEFT: 5px">[<A 
+title=Introduction 
+href="http://www.haskell.org/haskellwiki/?title=Introduction&amp;action=edit&amp;section=4">edit</A>]</DIV><A 
+name=Quicksort_in_Haskell></A>
+<H4>Quicksort in Haskell </H4><PRE>qsort []     = []
+qsort (x:xs) = qsort elts_lt_x ++ [x] ++ qsort elts_greq_x
+                 where
+                   elts_lt_x   = [y | y &lt;- xs, y &lt; x]
+                   elts_greq_x = [y | y &lt;- xs, y &gt;= x]
+</PRE>
+<DIV class=editsection style="FLOAT: right; MARGIN-LEFT: 5px">[<A 
+title=Introduction 
+href="http://www.haskell.org/haskellwiki/?title=Introduction&amp;action=edit&amp;section=5">edit</A>]</DIV><A 
+name=Quicksort_in_C></A>
+<H4>Quicksort in C </H4><PRE>qsort( a, lo, hi ) int a[], hi, lo;
+{
+  int h, l, p, t;
+
+  if (lo &lt; hi) {
+    l = lo;
+    h = hi;
+    p = a[hi];
+
+    do {
+      while ((l &lt; h) &amp;&amp; (a[l] &lt;= p)) 
+          l = l+1;
+      while ((h &gt; l) &amp;&amp; (a[h] &gt;= p))
+          h = h-1;
+      if (l &lt; h) {
+          t = a[l];
+          a[l] = a[h];
+          a[h] = t;
+      }
+    } while (l &lt; h);
+
+    t = a[l];
+    a[l] = a[hi];
+    a[hi] = t;
+
+    qsort( a, lo, l-1 );
+    qsort( a, l+1, hi );
+  }
+}
+
+</PRE>
+<P>Let's examine some of benefits of Haskell and functional programming. A more 
+detailed case for functional programming can be found in </P>
+<BLOCKQUOTE><A class="external text" 
+  title=http://www.md.chalmers.se/~rjmh/Papers/whyfp.html 
+  href="http://www.md.chalmers.se/~rjmh/Papers/whyfp.html" 
+  rel=nofollow><STRONG>Why Functional Programming Matters</STRONG></A> by <A 
+  class="external text" title=http://www.md.chalmers.se/~rjmh/ 
+  href="http://www.md.chalmers.se/~rjmh/" rel=nofollow>John Hughes</A>, The 
+  Computer Journal, Vol. 32, No. 2, 1989, pp. 98 - 107. Also in: David A. Turner 
+  (ed.): Research Topics in Functional Programming, Addison-Wesley, 1990, pp. 17 
+  - 42. </BLOCKQUOTE>
+<P>A slightly less formal essay inspired by the paper above can be found in </P>
+<BLOCKQUOTE><A title="Why Haskell Matters" 
+  href="http://www.haskell.org/haskellwiki/Why_Haskell_Matters"><STRONG>Why 
+  Haskell Matters</STRONG></A> originally by <A class="external text" 
+  title=mailto:sylvan@dtek.chalmers.se href="mailto:sylvan@dtek.chalmers.se" 
+  rel=nofollow>Sebastian Sylvan</A> </BLOCKQUOTE>
+<DIV class=editsection style="FLOAT: right; MARGIN-LEFT: 5px">[<A 
+title=Introduction 
+href="http://www.haskell.org/haskellwiki/?title=Introduction&amp;action=edit&amp;section=6">edit</A>]</DIV><A 
+name=1._Brevity></A>
+<H4>1. Brevity </H4>
+<P>Functional programs tend to be much more <B>concise</B> than their imperative 
+counterparts. Quicksort is a rather extreme case, but in general functional 
+programs are much shorter (two to ten times). </P>
+<DIV class=editsection style="FLOAT: right; MARGIN-LEFT: 5px">[<A 
+title=Introduction 
+href="http://www.haskell.org/haskellwiki/?title=Introduction&amp;action=edit&amp;section=7">edit</A>]</DIV><A 
+name=2._Ease_of_understanding></A>
+<H4>2. Ease of understanding </H4>
+<P>Functional programs are often easier to <B>understand</B>. You should be able 
+to understand the program without any previous knowledge of either Haskell or 
+quicksort. The same certainly cannot be said of the C program. It takes quite a 
+while to understand, and even when you do understand it, it is extremely easy to 
+make a small slip and end up with an incorrect program. Here is a detailed 
+explanation of the Haskell quicksort: </P>
+<BLOCKQUOTE><PRE>qsort []     = []
+qsort (x:xs) = qsort elts_lt_x ++ [x] ++ qsort elts_greq_x
+		 where
+		   elts_lt_x   = [y | y &lt;- xs, y &lt; x]
+		   elts_greq_x = [y | y &lt;- xs, y &gt;= x]
+
+</PRE>
+  <P>The first line reads: "The result of sorting an empty list (written 
+  <TT>[]</TT>) is an empty list". The second line reads: "To sort a list whose 
+  first element is <TT>x</TT> and the rest of which is called <TT>xs</TT>, just 
+  sort all the elements of <TT>xs</TT> which are less than <TT>x</TT> (call them 
+  <TT>elts_lt_x</TT>), sort all the elements of <TT>xs</TT> </P>
+  <P>which are greater than or equal to <TT>x</TT> (call them 
+  <TT>elts_greq_x</TT>), and concatenate (<TT>++</TT>) the results, with 
+  <TT>x</TT> sandwiched in the middle." </P>
+  <P>The definition of <TT>elts_lt_x</TT>, which is given immediately below, is 
+  read like this: "<TT>elts_lt_x</TT> is the list of all </P>
+  <P><TT>y</TT>'s such that <TT>y</TT> is drawn from the list <TT>xs</TT>, and 
+  <TT>y</TT> is less than <TT>x</TT>". The definition of <TT>elts_greq_x</TT> is 
+  similar. The syntax is deliberately reminiscent of standard mathematical set 
+  notation, pronouncing "<TT>|</TT>" as "such that" and "<TT> </P>
+  <P>&lt;-</TT>" as "drawn from". </P>
+  <P>When asked to sort a non-empty list, <TT>qsort</TT> calls itself to sort 
+  <TT>elts_lt_x</TT> and <TT>elts_greq_x</TT>. That's OK because both these 
+  lists are smaller than the one originally given to <TT>qsort</TT>, so the 
+  splitting-and-sorting process will eventually reduce to sorting an empty list, 
+  which is done rather trivially by the first line of <TT>qsort</TT>. 
+</P></BLOCKQUOTE>
+<DIV class=editsection style="FLOAT: right; MARGIN-LEFT: 5px">[<A 
+title=Introduction 
+href="http://www.haskell.org/haskellwiki/?title=Introduction&amp;action=edit&amp;section=8">edit</A>]</DIV><A 
+name=3._No_core_dumps></A>
+<H4>3. No core dumps </H4>
+<P>Most functional languages, and Haskell in particular, are <B>strongly 
+typed</B>, eliminating a huge class of easy-to-make errors at compile time. In 
+particular, strong typing means <B>no core dumps</B>! There is simply no 
+possibility of treating an integer as a pointer, or following a null pointer. 
+</P>
+<DIV class=editsection style="FLOAT: right; MARGIN-LEFT: 5px">[<A 
+title=Introduction 
+href="http://www.haskell.org/haskellwiki/?title=Introduction&amp;action=edit&amp;section=9">edit</A>]</DIV><A 
+name=4._Code_re-use></A>
+<H4>4. Code re-use </H4>
+<P>Of course, strong typing is available in many imperative languages, such as 
+Ada or Pascal. However, Haskell's type system is much less restrictive than, 
+say, Pascal's, because it uses <B>polymorphism</B>. For example, the qsort 
+program given in Figure 1 will not only sort lists of integers, but also lists 
+of floating point numbers, lists of characters, lists of lists; indeed, it will 
+sort lists of anything which can be compared by the less-than and greater-than 
+operations. In contrast, the C version is restricted to sorting an array of 
+integers. </P>
+<P>Polymorphism enhances re-usability. </P>
+<DIV class=editsection style="FLOAT: right; MARGIN-LEFT: 5px">[<A 
+title=Introduction 
+href="http://www.haskell.org/haskellwiki/?title=Introduction&amp;action=edit&amp;section=10">edit</A>]</DIV><A 
+name=5._Strong_glue></A>
+<H4>5. Strong glue </H4>
+<P>Non-strict functional languages have another powerful feature: they only 
+evaluate as much of the program as is required to get the answer - this is 
+called <B>lazy evaluation</B>. This feature is rather like Unix pipes. For 
+example, the Unix command </P><PRE>grep printf Foo.c | wc
+</PRE>
+<P>counts the number of lines in the file <TT>Foo.c </TT>which include the 
+string <TT>printf</TT> The command "<TT>grep printf Foo.c</TT>" </P>
+<P>produces all lines which contain the string "<TT>printf</TT>", while the 
+"<TT>wc</TT>" command counts them. The pipe, written "<TT>|</TT>", takes the 
+output from the first command and delivers it to the second. The two commands 
+execute together, so that the output of the first is consumed more-or-less 
+immediately by the second. In this way, no large intermediate files need be 
+produced. You can think of <TT>wc</TT> "demanding" lines from the <TT>grep</TT> 
+</P>
+<P>If the second command only needs some of the output of the first, then 
+execution of the first command might never need to be completed. For example 
+</P><PRE>grep printf Foo.c | head 5
+</PRE>
+<P>just prints the first 5 lines which contain "<TT>printf</TT>". There is no 
+need to modify the <TT>grep</TT> command to take account of the fact that its 
+execution might be abandoned. </P>
+<P>Non-strict languages provide exactly this kind of demand-driven evaluation. 
+Data structures are evaluated just enough to deliver the answer, and parts of 
+them may not be evaluated at all. As in the case of Unix commands, this provides 
+powerful "glue" with which to compose existing programs together. What this 
+means is that it is possible to <B>re-use programs</B>, or pieces of programs, 
+much more often than can be done in an imperative setting. Lazy evaluation 
+allows us to write more <B>modular programs</B>. </P>
+<DIV class=editsection style="FLOAT: right; MARGIN-LEFT: 5px">[<A 
+title=Introduction 
+href="http://www.haskell.org/haskellwiki/?title=Introduction&amp;action=edit&amp;section=11">edit</A>]</DIV><A 
+name=6._Powerful_abstractions></A>
+<H4>6. Powerful abstractions </H4>
+<P>In general, functional languages offer powerful new ways to encapsulate 
+<B>abstractions</B>. An abstraction allows you to define an object whose 
+internal workings are hidden; a C procedure, for example, is an abstraction. 
+Abstractions are <I>the</I> key to building modular, maintainable programs, so 
+much so that a good question to ask of any new language is "what mechanisms for 
+abstraction does it provide?". </P>
+<P>One powerful abstraction mechanism available in functional languages is the 
+<B>higher-order function</B>. In Haskell a function is a first-class citizen: it 
+can freely be passed to other functions, returned as the result of a function, 
+stored in a data structure, and so on. It turns out that the judicious use of 
+higher-order functions can substantially improve the structure and modularity of 
+many programs. </P>
+<DIV class=editsection style="FLOAT: right; MARGIN-LEFT: 5px">[<A 
+title=Introduction 
+href="http://www.haskell.org/haskellwiki/?title=Introduction&amp;action=edit&amp;section=12">edit</A>]</DIV><A 
+name=7._Built-in_memory_management></A>
+<H4>7. Built-in memory management</H4>
+<P>Very many sophisticated programs need to allocate dynamic memory from a heap. 
+In C this is done with a call to <TT>malloc</TT>, followed by code to initialise 
+the store just allocated. The programmer is responsible for returning the store 
+to the free pool when it isn't needed any more, a notorious source of 
+"dangling-pointer" errors. Furthermore, <TT>malloc</TT> is fairly expensive, so 
+programmers often </P>
+<P><TT>malloc</TT> a single large chunk of store, and then allocate "by hand" 
+out of this. </P>
+<P>Every functional language relieves the programmer of this storage management 
+burden. Store is allocated and initialised implicitly, and recovered 
+automatically by the garbage collector. The technology of storage allocation and 
+garbage collection is now well developed, and the costs are rather slight. </P>
+<DIV class=editsection style="FLOAT: right; MARGIN-LEFT: 5px">[<A 
+title=Introduction 
+href="http://www.haskell.org/haskellwiki/?title=Introduction&amp;action=edit&amp;section=13">edit</A>]</DIV><A 
+name=When_C_is_better></A>
+<H3>When C is better</H3>
+<P>It isn't all roses, of course. The C quicksort uses an extremely ingenious 
+technique, invented by Hoare, whereby it sorts the array <I>in place</I>; that 
+is, without using any extra storage. As a result, it runs quickly, and in a 
+small amount of memory. In contrast, the Haskell program allocates quite a lot 
+of extra memory behind the scenes, and runs rather slower than the C program. 
+</P>
+<P>In effect, the C quicksort does some very ingenious storage management, 
+trading this algorithmic complexity for a reduction in run-time storage 
+management costs. </P>
+<P>In applications where performance is required at any cost, or when the goal 
+is detailed tuning of a low-level algorithm, an imperative language like C would 
+probably be a better choice than Haskell, exactly because it provides more 
+intimate control over the exact way in which the computation is carried out. 
+</P>
+<DIV class=editsection style="FLOAT: right; MARGIN-LEFT: 5px">[<A 
+title=Introduction 
+href="http://www.haskell.org/haskellwiki/?title=Introduction&amp;action=edit&amp;section=14">edit</A>]</DIV><A 
+name=Functional_vs_imperative></A>
+<H4>Functional vs imperative </H4>
+<P>But few programs require performance at any cost! After all, we all stopped 
+writing assembly-language programs, except perhaps for key inner loops, long 
+ago. The benefits of having a more supportive programming model (an arbitrary 
+number of named, local variables instead of a fixed number of registers, for 
+example) far outweigh the modest run-time costs. </P>
+<P>Similarly, we willingly accept the costs of a virtual memory paging system, 
+in exchange for the more supportive programming model of an infinite virtual 
+address space. The days of explicit memory overlays are over. </P>
+<P>Functional languages take another large step towards a higher-level 
+programing model. Programs are easier to design, write and maintain, but the 
+language offers the programmer less control over the machine. For most programs 
+the result is perfectly acceptable. </P>
+<DIV class=editsection style="FLOAT: right; MARGIN-LEFT: 5px">[<A 
+title=Introduction 
+href="http://www.haskell.org/haskellwiki/?title=Introduction&amp;action=edit&amp;section=15">edit</A>]</DIV><A 
+name=What_is_Haskell.3F></A>
+<H3>What is Haskell?</H3>
+<P>Haskell is a modern, standard, non-strict, purely-functional programming 
+language. It provides all the features sketched above, including polymorphic 
+typing, lazy evaluation and higher-order functions. It also has an innovative 
+type system which supports a systematic form of overloading and a module system. 
+</P>
+<P>It is specifically designed to handle a wide range of applications, from 
+numerical through to symbolic. To this end, Haskell has an expressive syntax, 
+and a rich variety of built-in data types, including arbitrary-precision 
+integers and rationals, as well as the more conventional integer, floating-point 
+and boolean types. </P>
+<P>There are a number of <A title=Implementations 
+href="http://www.haskell.org/haskellwiki/Implementations">Implementations</A> 
+available. All are free. First-time users may want to start with <A class=new 
+title=Hugs 
+href="http://www.haskell.org/haskellwiki/?title=Hugs&amp;action=edit">Hugs</A>, 
+a small, portable Haskell interpreter. </P>
+<DIV class=editsection style="FLOAT: right; MARGIN-LEFT: 5px">[<A 
+title=Introduction 
+href="http://www.haskell.org/haskellwiki/?title=Introduction&amp;action=edit&amp;section=16">edit</A>]</DIV><A 
+name=Does_Anyone_Use_Functional_Programming.3F></A>
+<H3>Does Anyone Use Functional Programming? </H3>
+<P>Functional programming languages are used in substantial applications. For 
+example: </P>
+<UL>
+  <LI>Software AG, a major German software company, market an expert system 
+  (Natural Expert) which is programmed in a functional language. Their users 
+  find it easy to develop their applications in this language, through which 
+  they gain access to an underlying database system. It all runs on an IBM 
+  mainframe. 
+  <LI>Ericsson have developed a new functional language, Erlang, to use in their 
+  future telephony applications. They have already written 130k-line Erlang 
+  applications, and find them very much shorter and faster to develop. 
+  <LI>Amoco ran an experiment in which they re-coded in a functional language a 
+  substantial fraction of their main oil-reservoir simulation code, a critical 
+  applictaion. The resulting program was vastly shorter, and its production 
+  revealed a number of errors in the existing software. Amoco subsequently 
+  transcribed the functional program into ... with encouraging results. 
+  <LI>A researcher at the MITRE corporation is using Haskell to prototype his 
+  digital signal-processing applications. 
+  <LI>Researchers at Durham University used a functional language in a 
+  seven-year project to build LOLITA, a 30,000-line program for natural-language 
+  understanding. 
+  <LI>Query is the query language of the O2 object-oriented database system. 
+  O2Query is probably the most sophisticated commercially-available 
+  object-oriented database query language and it is a functional language. 
+  <LI>ICAD Inc market a CAD system for mechanical and aeronautical engineers. 
+  The language in which the engineers describe their design is functional, and 
+  it uses lazy evaluation extensively to avoid recomputing parts of the design 
+  which are not currently visible on the screen. This results in substantial 
+  performance improvements. 
+  <LI>An incestuous example: the Glasgow Haskell compiler is written in Haskell: 
+  a 30,000-line application. </LI></UL>
+<P>Some other examples of <A class=new title=Practice 
+href="http://www.haskell.org/haskellwiki/?title=Practice&amp;action=edit">Haskell 
+in practice</A> are found at this web site. </P>
+<DIV class=editsection style="FLOAT: right; MARGIN-LEFT: 5px">[<A 
+title=Introduction 
+href="http://www.haskell.org/haskellwiki/?title=Introduction&amp;action=edit&amp;section=17">edit</A>]</DIV><A 
+name=Other_frequently-asked_questions></A>
+<H3>Other frequently-asked questions </H3>
+<P><I>Is functional programming hard to learn?</I> </P>
+<BLOCKQUOTE>Functional programming does require a change in perspective, which 
+  some programmers find hard. But Ericsson's experience in training programmers 
+  in Erlang is that most find the transition easy - provided they take the 
+  training need seriously rather than assuming that they can "pick it up on the 
+  day". </BLOCKQUOTE>
+<P><I>Aren't functional programs very slow?</I> </P>
+<BLOCKQUOTE>They used to be, but the compilers have now caught up. Haskell 
+  programs run fast enough for all but the most performance-demanding 
+  applications. </BLOCKQUOTE>
+<P><I>I already have a large application in C or C++; can I benefit from 
+functional programming without rewriting my whole system?</I> </P>
+<BLOCKQUOTE>Haskell has been successfully integrated into existing 
+  applications in a number of ways. <A class="external text" 
+  title=http://www.haskell.org/hdirect/ href="http://www.haskell.org/hdirect/" 
+  rel=nofollow>HaskellDirect</A> is an IDL (Interface Description Language) 
+  based tool that allows Haskell programs to work with software components. Low 
+  level C/C++ interfaces can be generated with <A class="external text" 
+  title=http://www.haskell.org/greencard href="http://www.haskell.org/greencard" 
+  rel=nofollow>Green Card</A>, allowing tight integration between Haskell and C. 
+  These tools have been used to build a number of successful, mixed language 
+  systems. </BLOCKQUOTE>
+<P><I>What libraries does Haskell support?</I> </P>
+<BLOCKQUOTE>Many software libraries have been developed for Haskell. See the 
+  <A class=new title=Libraries 
+  href="http://www.haskell.org/haskellwiki/?title=Libraries&amp;action=edit">list 
+  of Haskell libraries</A> for a complete list of what is available. </BLOCKQUOTE>
+<P><I>What other software tools for Haskell are there? </I></P>
+<BLOCKQUOTE>Glasgow Haskell comes with a profiler which allows you to find 
+  which parts of your program are consuming most time and space. Chalmers 
+  Haskell has a space-profiling tool, and a quasi-parallel simulator which 
+  allows you to experiment with running your program in parallel. Hugs also has 
+  some similar tools. </BLOCKQUOTE>
+<P><I>Can I get a support contract or a help-line?</I> </P>
+<BLOCKQUOTE>It used to be the case that if you wanted help, you had to 
+  persuade a Haskell research group that your problem was interesting enough or 
+  important enough that they should spend time helping you for free. <BR>Whilst 
+  that is still an option, there is now a &lt;a 
+  href="consultants.html"&gt;directory of Haskell Consultants&lt;/a&gt; who 
+  provide: 
+  <UL>
+    <LI>Support for compilers, tools and libraries. 
+    <LI>Help with improving code quality (time, space, robustness, 
+    maintainability, etc.) using code reviews and tools. 
+    <LI>Help with using libraries, tools and advanced Haskell features such as 
+    type system extensions, exception handling, the foreign function interface, 
+    test harnesses, and concurrency. 
+    <LI>Library and application development. 
+    <LI>Staff training. </LI></UL>
+  <P>These companies and individuals tend to work closely with those developing 
+  Haskell (indeed, they have usually made major contributions to Haskell 
+  themselves). </P></BLOCKQUOTE>
+<P><I>How can I learn Haskell?</I> </P>
+<BLOCKQUOTE>For more example and explanations, look at the <A 
+  class="external text" title=http://www.haskell.org/tutorial/ 
+  href="http://www.haskell.org/tutorial/" rel=nofollow>Gentle Introduction to 
+  Haskell</A>. There are a number of textbooks that use Haskell; see <A 
+  title=Books href="http://www.haskell.org/haskellwiki/Books">Books</A>. 
+</BLOCKQUOTE>
+<P><I>Based on a paper by Simon Peyton Jones.</I> </P><!-- Saved in parser cache with key haskellwiki:pcache:idhash:1314-0!1!0!0!!en!2 and timestamp 20060209173806 -->
+<DIV class=printfooter>
+<P>Retrieved from "<A 
+href="http://www.haskell.org/haskellwiki/Introduction">http://www.haskell.org/haskellwiki/Introduction</A>"</P>
+<P>This page has been accessed 4,994 times. This page was last modified 17:30, 8 
+February 2006. Recent content is available under <A title=HaskellWiki:Copyrights 
+href="http://www.haskell.org/haskellwiki/HaskellWiki:Copyrights">a simple 
+permissive license</A>.</P></DIV></DIV>
+<DIV id=footer>
+<P><SPAN id=pagestats>Recent content is available under <A 
+title=HaskellWiki:Copyrights 
+href="http://www.haskell.org/haskellwiki/HaskellWiki:Copyrights">a simple 
+permissive license</A>.</SPAN><BR><STRONG><A title=Introduction 
+href="http://www.haskell.org/haskellwiki/?title=Introduction&amp;action=edit">Edit 
+this page</A></STRONG> | <A title=Talk:Introduction 
+href="http://www.haskell.org/haskellwiki/Talk:Introduction">Discuss this 
+page</A> | <A title=Introduction 
+href="http://www.haskell.org/haskellwiki/?title=Introduction&amp;action=history">Page 
+history</A> | <A title=Special:Whatlinkshere 
+href="http://www.haskell.org/haskellwiki/?title=Special:Whatlinkshere&amp;target=Introduction">What 
+links here</A> | <A title=Special:Recentchangeslinked 
+href="http://www.haskell.org/haskellwiki/?title=Special:Recentchangeslinked&amp;target=Introduction">Related 
+changes</A> <BR><BR></P></DIV></DIV>
+<DIV id=bottombar>
+<TABLE cellSpacing=0 cellPadding=5 width="100%">
+  <TBODY>
+  <TR vAlign=bottom>
+    <TD align=left width=60>
+      <P><A href="http://www.haskell.org/haskellwiki/Haskell"><IMG 
+      src="Introduction - HaskellWiki_archivos/haskellwiki_logo_small.png"></A></P></TD>
+    <TD align=left>
+      <P><A href="http://www.haskell.org/haskellwiki/Haskell">Haskell</A> | <A 
+      href="http://www.haskell.org/haskellwiki/HaskellWiki:Community_Portal">Community 
+      portal</A> | <A 
+      href="http://www.haskell.org/haskellwiki/Events">Events</A><BR><A 
+      href="http://www.haskell.org/haskellwiki/Special:Recentchanges">Recent 
+      changes</A> | <A 
+      href="http://www.haskell.org/haskellwiki/Special:Random">Random page</A> | 
+      <A href="http://www.haskell.org/haskellwiki/Help:Contents">Help</A><BR><A 
+      title=Special:Specialpages 
+      href="http://www.haskell.org/haskellwiki/Special:Specialpages">Special 
+      pages</A> | <A title="HaskellWiki:Bug reports" 
+      href="http://www.haskell.org/haskellwiki/HaskellWiki:Bug_reports">Bug 
+      reports</A><BR>
+      <FORM class=inline name=search action=/haskellwiki/Special:Search 
+      method=post><INPUT size=19 name=search> <INPUT type=submit value=Go name=go>&nbsp;<INPUT type=submit value=Search name=fulltext> 
+      </FORM></P></TD>
+    <TD align=right>
+      <P>Not logged in <BR><A title=Special:Userlogin 
+      href="http://www.haskell.org/haskellwiki/?title=Special:Userlogin&amp;returnto=Introduction">Log 
+      in</A> | <A title=Help:Contents 
+      href="http://www.haskell.org/haskellwiki/Help:Contents">Help</A></P></TD></TR></TBODY></TABLE></DIV></DIV></DIV><!-- Served by haskell.cs.yale.edu in 0.21 secs. --></BODY></HTML>
+                                                                                                                                                                                                                                                                                                                                                                                                      

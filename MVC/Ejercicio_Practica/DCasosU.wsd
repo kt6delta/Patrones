@@ -1,0 +1,17 @@
+@startuml DCasosU
+Usuario << Human >>
+:Base de Datos: as MySql << Application >>
+
+(Mostrar Contacto) as (Use1) << Main >>
+(Buscar Contacto) as (Use2)
+(Cambiar imagen Contacto) as (Use3)
+(Crear Contacto) as (Use4)
+
+Usuario -> (Salir de Aplicativo)
+Usuario --> (Use1)
+Usuario --> (Use2)
+Usuario --> (Use3)
+Usuario --> (Use4)
+
+MySql --> (Use1)
+@enduml

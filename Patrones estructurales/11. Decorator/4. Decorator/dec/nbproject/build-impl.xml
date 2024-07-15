@@ -1,0 +1,545 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<!-- saved from url=(0329)http://retailpro.coursehost.com/prot/27F35641_6D8D_495E_AAE5_5EC6B744F84B/1/PKs/25080/1486864/mc_123B777B-54DF-457E-94AC-D14971A50118.htm?cID=DDFDEDEC-F085-44FE-BA4B-FB459FD7DFD1&uPK=80543&cPK=845645&oID=73DCB08B-4B8B-4E9A-A965-2E7E84EAC4EA&ft=1&n=0&LID=1&ky=PPC3I.MVnE6FRU5pszP_R11MXefO39Sk&d=C021A4B0&tpl=17,14129,0,17&csPK=200 -->
+<HTML xmlns="http://www.w3.org/TR/REC-html40" xmlns:v = 
+"urn:schemas-microsoft-com:vml" xmlns:o = 
+"urn:schemas-microsoft-com:office:office" xmlns:w = 
+"urn:schemas-microsoft-com:office:word" xmlns:dt = 
+"uuid:C2F41010-65B3-11d1-A29F-00AA00C14882"><HEAD><TITLE>Sales Orders - Registry SOs</TITLE>
+<SCRIPT>var prnt=null;if (parent && parent.GetTmplBtm) prnt=parent; else if (opener && opener.GetTmplBtm) prnt=opener; if(prnt) prnt.TmplCtor(window.document);</SCRIPT>
+
+<META http-equiv=Content-Type content="text/html; charset=windows-1252">
+<META content=Word.Document name=ProgId>
+<META content="MSHTML 6.00.6000.20591" name=GENERATOR>
+<META content="Microsoft Word 11" name=Originator><LINK 
+href="123B777B-54DF-457E-94AC-D14971A50118_files/filelist.xml" 
+rel=File-List><LINK 
+href="123B777B-54DF-457E-94AC-D14971A50118_files/editdata.mso" 
+rel=Edit-Time-Data><!--[if !mso]>
+<STYLE>v\:* {
+	BEHAVIOR: url(#default#VML)
+}
+o\:* {
+	BEHAVIOR: url(#default#VML)
+}
+w\:* {
+	BEHAVIOR: url(#default#VML)
+}
+.shape {
+	BEHAVIOR: url(#default#VML)
+}
+</STYLE>
+<![endif]--><!--[if gte mso 9]><xml>
+ <o:DocumentProperties>
+  <o:Author>Retail Pro Training</o:Author>
+  <o:Template>Lessons.dot</o:Template>
+  <o:LastAuthor>me</o:LastAuthor>
+  <o:Revision>2</o:Revision>
+  <o:TotalTime>0</o:TotalTime>
+  <o:LastPrinted>2007-05-24T20:48:00Z</o:LastPrinted>
+  <o:Created>2008-03-12T03:40:00Z</o:Created>
+  <o:LastSaved>2008-03-12T03:40:00Z</o:LastSaved>
+  <o:Pages>2</o:Pages>
+  <o:Words>302</o:Words>
+  <o:Characters>1728</o:Characters>
+  <o:Company>Retail Pro, Inc.</o:Company>
+  <o:Lines>14</o:Lines>
+  <o:Paragraphs>4</o:Paragraphs>
+  <o:CharactersWithSpaces>2026</o:CharactersWithSpaces>
+  <o:Version>11.8122</o:Version>
+ </o:DocumentProperties>
+ <o:CustomDocumentProperties>
+  <o:MFTConvert dt:dt="string">7</o:MFTConvert>
+  <o:VerOrig dt:dt="string">31</o:VerOrig>
+  <o:Ver dt:dt="string">31</o:Ver>
+  <o:Site dt:dt="string">retailpro.coursehost.com</o:Site>
+  <o:MFTST1 dt:dt="string">Sales Orders</o:MFTST1>
+  <o:MFTST2 dt:dt="string">PURCHASING ITEMS OFF A REGISTRY SO</o:MFTST2>
+  <o:MFTSlideTypes dt:dt="string">5,5</o:MFTSlideTypes>
+ </o:CustomDocumentProperties>
+ <o:OfficeDocumentSettings>
+  <o:DoNotRelyOnCSS/>
+  <o:TargetScreenSize>640x480</o:TargetScreenSize>
+ </o:OfficeDocumentSettings>
+</xml><![endif]--><!--[if gte mso 9]><xml>
+ <w:WordDocument>
+  <w:ActiveWritingStyle Lang="EN-US" VendorID="64" DLLVersion="131078"
+   NLCheck="1">0</w:ActiveWritingStyle>
+  <w:PunctuationKerning/>
+  <w:ValidateAgainstSchemas/>
+  <w:SaveIfXMLInvalid>false</w:SaveIfXMLInvalid>
+  <w:IgnoreMixedContent>false</w:IgnoreMixedContent>
+  <w:AlwaysShowPlaceholderText>false</w:AlwaysShowPlaceholderText>
+  <w:Compatibility>
+   <w:BreakWrappedTables/>
+   <w:SnapToGridInCell/>
+   <w:WrapTextWithPunct/>
+   <w:UseAsianBreakRules/>
+   <w:DontGrowAutofit/>
+  </w:Compatibility>
+  <w:BrowserLevel>MicrosoftInternetExplorer4</w:BrowserLevel>
+ </w:WordDocument>
+</xml><![endif]--><!--[if gte mso 9]><xml>
+ <w:LatentStyles DefLockedState="false" LatentStyleCount="156">
+ </w:LatentStyles>
+</xml><![endif]-->
+<STYLE>@font-face {
+	font-family: Wingdings;
+}
+@font-face {
+	font-family: Tahoma;
+}
+@font-face {
+	font-family: Albertus Extra Bold;
+}
+@page  {mso-footnote-separator: url("123B777B-54DF-457E-94AC-D14971A50118_files/header.htm") fs; mso-footnote-continuation-separator: url("123B777B-54DF-457E-94AC-D14971A50118_files/header.htm") fcs; mso-endnote-separator: url("123B777B-54DF-457E-94AC-D14971A50118_files/header.htm") es; mso-endnote-continuation-separator: url("123B777B-54DF-457E-94AC-D14971A50118_files/header.htm") ecs; mso-facing-pages: yes; }
+@page Section1 {size: 8.5in 11.0in; margin: 1.0in 1.0in 1.0in 1.0in; mso-header-margin: .5in; mso-footer-margin: .5in; mso-gutter-margin: .5in; mso-page-numbers-chapter-style: header-1; mso-even-footer: url("123B777B-54DF-457E-94AC-D14971A50118_files/header.htm") ef1; mso-footer: url("123B777B-54DF-457E-94AC-D14971A50118_files/header.htm") f1; mso-paper-source: 0; }
+P.MsoNormal {
+	FONT-SIZE: 12pt; MARGIN: 0in 0in 0pt; FONT-FAMILY: "Times New Roman"; mso-style-parent: ""; mso-pagination: widow-orphan; mso-fareast-font-family: "Times New Roman"; mso-fareast-language: EN-US
+}
+LI.MsoNormal {
+	FONT-SIZE: 12pt; MARGIN: 0in 0in 0pt; FONT-FAMILY: "Times New Roman"; mso-style-parent: ""; mso-pagination: widow-orphan; mso-fareast-font-family: "Times New Roman"; mso-fareast-language: EN-US
+}
+DIV.MsoNormal {
+	FONT-SIZE: 12pt; MARGIN: 0in 0in 0pt; FONT-FAMILY: "Times New Roman"; mso-style-parent: ""; mso-pagination: widow-orphan; mso-fareast-font-family: "Times New Roman"; mso-fareast-language: EN-US
+}
+H1 {
+	FONT-SIZE: 28pt; MARGIN: 12pt 0in 3pt; COLOR: navy; FONT-FAMILY: Arial; mso-pagination: widow-orphan; mso-fareast-language: EN-US; mso-style-next: Normal; mso-outline-level: 1; mso-bidi-font-size: 16.0pt; mso-font-kerning: 16.0pt
+}
+H2 {
+	FONT-SIZE: 16pt; MARGIN: 12pt 0in 3pt; COLOR: #3366ff; FONT-STYLE: italic; FONT-FAMILY: Arial; mso-pagination: widow-orphan; mso-fareast-language: EN-US; mso-style-next: Normal; mso-outline-level: 2; mso-bidi-font-size: 20.0pt
+}
+H3 {
+	FONT-SIZE: 11pt; MARGIN: 3pt 0in 0pt; TEXT-TRANSFORM: uppercase; COLOR: white; FONT-FAMILY: Arial; mso-pagination: widow-orphan; mso-fareast-language: EN-US; mso-style-next: Normal; mso-outline-level: 3; mso-bidi-font-size: 10.0pt
+}
+P.MsoHeader {
+	FONT-SIZE: 12pt; MARGIN: 0in 0in 0pt; FONT-FAMILY: "Times New Roman"; mso-pagination: widow-orphan; mso-fareast-font-family: "Times New Roman"; mso-fareast-language: EN-US; tab-stops: center 3.0in right 6.0in
+}
+LI.MsoHeader {
+	FONT-SIZE: 12pt; MARGIN: 0in 0in 0pt; FONT-FAMILY: "Times New Roman"; mso-pagination: widow-orphan; mso-fareast-font-family: "Times New Roman"; mso-fareast-language: EN-US; tab-stops: center 3.0in right 6.0in
+}
+DIV.MsoHeader {
+	FONT-SIZE: 12pt; MARGIN: 0in 0in 0pt; FONT-FAMILY: "Times New Roman"; mso-pagination: widow-orphan; mso-fareast-font-family: "Times New Roman"; mso-fareast-language: EN-US; tab-stops: center 3.0in right 6.0in
+}
+P.MsoFooter {
+	FONT-SIZE: 12pt; MARGIN: 0in 0in 0pt; FONT-FAMILY: "Times New Roman"; mso-pagination: widow-orphan; mso-fareast-font-family: "Times New Roman"; mso-fareast-language: EN-US; tab-stops: center 3.0in right 6.0in
+}
+LI.MsoFooter {
+	FONT-SIZE: 12pt; MARGIN: 0in 0in 0pt; FONT-FAMILY: "Times New Roman"; mso-pagination: widow-orphan; mso-fareast-font-family: "Times New Roman"; mso-fareast-language: EN-US; tab-stops: center 3.0in right 6.0in
+}
+DIV.MsoFooter {
+	FONT-SIZE: 12pt; MARGIN: 0in 0in 0pt; FONT-FAMILY: "Times New Roman"; mso-pagination: widow-orphan; mso-fareast-font-family: "Times New Roman"; mso-fareast-language: EN-US; tab-stops: center 3.0in right 6.0in
+}
+A:link {
+	COLOR: blue; TEXT-DECORATION: underline; text-underline: single
+}
+SPAN.MsoHyperlink {
+	COLOR: blue; TEXT-DECORATION: underline; text-underline: single
+}
+A:visited {
+	COLOR: purple; TEXT-DECORATION: underline; text-underline: single
+}
+SPAN.MsoHyperlinkFollowed {
+	COLOR: purple; TEXT-DECORATION: underline; text-underline: single
+}
+P.MsoAcetate {
+	FONT-SIZE: 8pt; MARGIN: 0in 0in 0pt; FONT-FAMILY: Tahoma; mso-pagination: widow-orphan; mso-fareast-font-family: "Times New Roman"; mso-fareast-language: EN-US; mso-style-noshow: yes
+}
+LI.MsoAcetate {
+	FONT-SIZE: 8pt; MARGIN: 0in 0in 0pt; FONT-FAMILY: Tahoma; mso-pagination: widow-orphan; mso-fareast-font-family: "Times New Roman"; mso-fareast-language: EN-US; mso-style-noshow: yes
+}
+DIV.MsoAcetate {
+	FONT-SIZE: 8pt; MARGIN: 0in 0in 0pt; FONT-FAMILY: Tahoma; mso-pagination: widow-orphan; mso-fareast-font-family: "Times New Roman"; mso-fareast-language: EN-US; mso-style-noshow: yes
+}
+DIV.Section1 {
+	page: Section1
+}
+OL {
+	MARGIN-BOTTOM: 0in
+}
+UL {
+	MARGIN-BOTTOM: 0in
+}
+</STYLE>
+<!--[if gte mso 10]>
+<style>
+ /* Style Definitions */
+ table.MsoNormalTable
+	{mso-style-name:"Table Normal";
+	mso-tstyle-rowband-size:0;
+	mso-tstyle-colband-size:0;
+	mso-style-noshow:yes;
+	mso-style-parent:"";
+	mso-padding-alt:0in 5.4pt 0in 5.4pt;
+	mso-para-margin:0in;
+	mso-para-margin-bottom:.0001pt;
+	mso-pagination:widow-orphan;
+	font-size:10.0pt;
+	font-family:"Times New Roman";
+	mso-ansi-language:#0400;
+	mso-fareast-language:#0400;
+	mso-bidi-language:#0400;}
+table.MsoTableGrid
+	{mso-style-name:"Table Grid";
+	mso-tstyle-rowband-size:0;
+	mso-tstyle-colband-size:0;
+	border:solid windowtext 1.0pt;
+	mso-border-alt:solid windowtext .5pt;
+	mso-padding-alt:0in 5.4pt 0in 5.4pt;
+	mso-border-insideh:.5pt solid windowtext;
+	mso-border-insidev:.5pt solid windowtext;
+	mso-para-margin:0in;
+	mso-para-margin-bottom:.0001pt;
+	mso-pagination:widow-orphan;
+	font-size:10.0pt;
+	font-family:"Times New Roman";
+	mso-ansi-language:#0400;
+	mso-fareast-language:#0400;
+	mso-bidi-language:#0400;}
+</style>
+<![endif]--><!--[if gte mso 9]><xml>
+ <o:shapedefaults v:ext="edit" spidmax="3074"/>
+</xml><![endif]--><!--[if gte mso 9]><xml>
+ <o:shapelayout v:ext="edit">
+  <o:idmap v:ext="edit" data="1"/>
+ </o:shapelayout></xml><![endif]--></HEAD>
+<BODY lang=EN-US style="tab-interval: .5in" vLink=purple link=blue>
+<SCRIPT>if(prnt && prnt.GetTmplTop)document.write(prnt.GetTmplTop());if(prnt && prnt.GetWrdTmplTop)document.write(prnt.GetWrdTmplTop());</SCRIPT>
+
+<DIV class=Section1>
+<TABLE class=MsoTableGrid 
+style="BORDER-RIGHT: medium none; BORDER-TOP: medium none; BORDER-LEFT: medium none; WIDTH: 6.2in; BORDER-BOTTOM: medium none; BORDER-COLLAPSE: collapse; mso-border-alt: solid windowtext .5pt; mso-yfti-tbllook: 191; mso-padding-alt: 0in 5.4pt 0in 5.4pt; mso-border-insideh: .5pt solid windowtext; mso-border-insidev: .5pt solid windowtext" 
+cellSpacing=0 cellPadding=0 width=595 border=1>
+  <TBODY>
+  <TR style="mso-yfti-irow: 0; mso-yfti-firstrow: yes">
+    <TD 
+    style="BORDER-RIGHT: windowtext 1pt solid; PADDING-RIGHT: 5.4pt; BORDER-TOP: windowtext 1pt solid; PADDING-LEFT: 5.4pt; PADDING-BOTTOM: 0in; BORDER-LEFT: windowtext 1pt solid; WIDTH: 6.2in; PADDING-TOP: 0in; BORDER-BOTTOM: windowtext 1pt solid; mso-border-alt: solid windowtext .5pt" 
+    vAlign=top width=595>
+      <P class=MsoNormal 
+      style="MARGIN: 12pt 0in 3pt; mso-outline-level: 1"><B><FONT face=Arial 
+      color=navy size=6><SPAN 
+      style="FONT-WEIGHT: bold; FONT-SIZE: 22pt; COLOR: navy; FONT-FAMILY: Arial; mso-font-kerning: 16.0pt">Sales 
+      Orders<o:p></o:p></SPAN></FONT></B></P></TD></TR>
+  <TR style="mso-yfti-irow: 1; mso-yfti-lastrow: yes">
+    <TD 
+    style="BORDER-RIGHT: windowtext 1pt solid; PADDING-RIGHT: 5.4pt; BORDER-TOP: medium none; PADDING-LEFT: 5.4pt; PADDING-BOTTOM: 0in; BORDER-LEFT: windowtext 1pt solid; WIDTH: 6.2in; PADDING-TOP: 0in; BORDER-BOTTOM: windowtext 1pt solid; mso-border-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt" 
+    vAlign=top width=595>
+      <P class=MsoNormal 
+      style="MARGIN: 12pt 0in 3pt; mso-outline-level: 2"><B><I><FONT face=Arial 
+      color=#3366ff size=5><SPAN 
+      style="FONT-WEIGHT: bold; FONT-SIZE: 16pt; COLOR: #3366ff; FONT-STYLE: italic; FONT-FAMILY: Arial; mso-bidi-font-size: 20.0pt">Registry 
+      SOs<o:p></o:p></SPAN></FONT></I></B></P></TD></TR></TBODY></TABLE>
+<P class=MsoNormal><FONT face="Times New Roman" size=3><SPAN 
+style="FONT-SIZE: 12pt"><o:p>&nbsp;</o:p></SPAN></FONT></P>
+<TABLE class=MsoTableGrid 
+style="BORDER-COLLAPSE: collapse; mso-yfti-tbllook: 480; mso-padding-alt: 0in 5.4pt 0in 5.4pt" 
+cellSpacing=0 cellPadding=0 border=0>
+  <TBODY>
+  <TR style="mso-yfti-irow: 0; mso-yfti-firstrow: yes; mso-yfti-lastrow: yes">
+    <TD 
+    style="PADDING-RIGHT: 5.4pt; PADDING-LEFT: 5.4pt; PADDING-BOTTOM: 0in; WIDTH: 6.15in; PADDING-TOP: 0in" 
+    vAlign=top width=590>
+      <P class=MsoNormal><FONT face="Times New Roman" size=3><SPAN 
+      style="FONT-SIZE: 12pt">“<I style="mso-bidi-font-style: normal"><SPAN 
+      style="FONT-STYLE: italic; mso-bidi-font-style: normal">Registry 
+      SOs</SPAN></I>” are different from other SO types in that they do not deal 
+      with merchandise reservations.<SPAN style="mso-spacerun: yes">&nbsp; 
+      </SPAN>Instead, “<I style="mso-bidi-font-style: normal"><SPAN 
+      style="FONT-STYLE: italic; mso-bidi-font-style: normal">Registry 
+      SOs</SPAN></I>” keep track of items that a customer would like other 
+      people to buy for him/her.<SPAN style="mso-spacerun: yes">&nbsp; 
+      </SPAN>This is typically known as a “<I 
+      style="mso-bidi-font-style: normal"><SPAN 
+      style="FONT-STYLE: italic; mso-bidi-font-style: normal">gift 
+      registry</SPAN></I>,” such as a wedding or baby registry.<SPAN 
+      style="mso-spacerun: yes">&nbsp; </SPAN>Because different people purchase 
+      Registry SO items, you do not record the billing customer, terms or 
+      shipping.<SPAN style="mso-spacerun: yes">&nbsp; </SPAN>Likewise, SO 
+      deposits are not applicable when dealing with Registry 
+      SOs.</SPAN></FONT></P>
+      <P class=MsoNormal><FONT face="Times New Roman" size=3><SPAN 
+      style="FONT-SIZE: 12pt"><o:p>&nbsp;</o:p></SPAN></FONT></P>
+      <P class=MsoNormal><FONT face="Times New Roman" size=3><SPAN 
+      style="FONT-SIZE: 12pt">When customers actually purchase items against a 
+      gift registry, you reference the Registry SO on the Sales Receipt.<SPAN 
+      style="mso-spacerun: yes">&nbsp; </SPAN>This allows the Registry SO to 
+      keep track of the items that customers have purchased to prevent other 
+      customers from purchasing the same items.<SPAN 
+      style="mso-spacerun: yes">&nbsp; </SPAN></SPAN></FONT></P>
+      <P class=MsoNormal><FONT face="Times New Roman" size=3><SPAN 
+      style="FONT-SIZE: 12pt"><o:p>&nbsp;</o:p></SPAN></FONT></P>
+      <P class=MsoNormal style="TEXT-ALIGN: center" align=center><FONT 
+      face="Times New Roman" size=3><SPAN style="FONT-SIZE: 12pt"><!--[if gte vml 1]><v:shapetype id=_x0000_t75 
+      coordsize = "21600,21600" o:preferrelative = "t" o:spt = "75" filled = "f" 
+      stroked = "f" path = " m@4@5 l@4@11@9@11@9@5 xe"><v:stroke joinstyle = 
+      "miter"></v:stroke><v:formulas><v:f eqn = 
+      "if lineDrawn pixelLineWidth 0 "></v:f><v:f eqn = "sum @0 1 0 "></v:f><v:f 
+      eqn = "sum 0 0 @1 "></v:f><v:f eqn = "prod @2 1 2 "></v:f><v:f eqn = 
+      "prod @3 21600 pixelWidth "></v:f><v:f eqn = 
+      "prod @3 21600 pixelHeight "></v:f><v:f eqn = "sum @0 0 1 "></v:f><v:f eqn 
+      = "prod @6 1 2 "></v:f><v:f eqn = "prod @7 21600 pixelWidth "></v:f><v:f 
+      eqn = "sum @8 21600 0 "></v:f><v:f eqn = 
+      "prod @7 21600 pixelHeight "></v:f><v:f eqn = 
+      "sum @10 21600 0 "></v:f></v:formulas><v:path o:extrusionok = "f" 
+      gradientshapeok = "t" o:connecttype = "rect"></v:path><o:lock 
+      aspectratio="t" v:ext="edit"></o:lock></v:shapetype><v:shape 
+      id=_x0000_i1025 style="WIDTH: 322.5pt; HEIGHT: 242.25pt" type = 
+      "#_x0000_t75" coordsize = "21600,21600"><v:imagedata 
+      o:title="5-Registry Items" src = 
+      "123B777B-54DF-457E-94AC-D14971A50118_files/image001.png"></v:imagedata></v:shape><![endif]--><![if !vml]><img width=430 height=323
+  src="123B777B-54DF-457E-94AC-D14971A50118_files/image002.jpg" v:shapes="_x0000_i1025"><![endif]></SPAN></FONT></P>
+      <P class=MsoNormal><FONT face="Times New Roman" size=3><SPAN 
+      style="FONT-SIZE: 12pt"><o:p>&nbsp;</o:p></SPAN></FONT></P>
+      <P class=MsoNormal style="MARGIN-BOTTOM: 6pt"><FONT face="Times New Roman" 
+      size=3><SPAN style="FONT-SIZE: 12pt">There are two different types of 
+      Registry SOs:</SPAN></FONT></P>
+      <P class=MsoNormal 
+      style="MARGIN: 0in 0in 3pt 0.25in; TEXT-INDENT: -0.25in; tab-stops: list .25in; mso-list: l10 level1 lfo23"><![if !supportLists]><FONT 
+      face=Wingdings size=3><SPAN 
+      style="FONT-SIZE: 12pt; FONT-FAMILY: Wingdings; mso-fareast-font-family: Wingdings; mso-bidi-font-family: Wingdings"><SPAN 
+      style="mso-list: Ignore">§<FONT face="Times New Roman" size=1><SPAN 
+      style="FONT: 7pt 'Times New Roman'">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+      </SPAN></FONT></SPAN></SPAN></FONT><![endif]><SPAN dir=ltr><B 
+      style="mso-bidi-font-weight: normal"><SPAN 
+      style="FONT-WEIGHT: bold; mso-bidi-font-weight: normal">Store 
+      Registry</SPAN></B> – used when the gift list needs to be available only 
+      at a single store.</SPAN></P>
+      <P class=MsoNormal 
+      style="MARGIN-LEFT: 0.25in; TEXT-INDENT: -0.25in; tab-stops: list .25in; mso-list: l10 level1 lfo23"><![if !supportLists]><FONT 
+      face=Wingdings size=3><SPAN 
+      style="FONT-SIZE: 12pt; FONT-FAMILY: Wingdings; mso-fareast-font-family: Wingdings; mso-bidi-font-family: Wingdings"><SPAN 
+      style="mso-list: Ignore">§<FONT face="Times New Roman" size=1><SPAN 
+      style="FONT: 7pt 'Times New Roman'">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+      </SPAN></FONT></SPAN></SPAN></FONT><![endif]><SPAN dir=ltr><B 
+      style="mso-bidi-font-weight: normal"><SPAN 
+      style="FONT-WEIGHT: bold; mso-bidi-font-weight: normal">Company 
+      Registry</SPAN></B> – used when the gift list needs to be available at all 
+      stores within a given subsidiary.</SPAN></P></TD></TR></TBODY></TABLE>
+<P class=MsoNormal><FONT face="Times New Roman" size=3><SPAN 
+style="FONT-SIZE: 12pt"><o:p>&nbsp;</o:p></SPAN></FONT></P>
+<TABLE class=MsoTableGrid 
+style="BORDER-RIGHT: medium none; BORDER-TOP: medium none; BORDER-LEFT: medium none; WIDTH: 6.2in; BORDER-BOTTOM: medium none; BORDER-COLLAPSE: collapse; mso-yfti-tbllook: 191; mso-padding-alt: 0in 5.4pt 0in 5.4pt; mso-border-bottom-alt: solid windowtext .5pt" 
+cellSpacing=0 cellPadding=0 width=595 border=1>
+  <TBODY>
+  <TR 
+  style="HEIGHT: 0.1in; mso-yfti-irow: 0; mso-yfti-firstrow: yes; mso-yfti-lastrow: yes" 
+  height=10>
+    <TD 
+    style="BORDER-RIGHT: medium none; PADDING-RIGHT: 5.4pt; BORDER-TOP: medium none; PADDING-LEFT: 5.4pt; BACKGROUND: #606060; PADDING-BOTTOM: 0in; BORDER-LEFT: medium none; WIDTH: 239pt; PADDING-TOP: 0in; BORDER-BOTTOM: windowtext 1pt solid; HEIGHT: 0.1in; mso-border-bottom-alt: solid windowtext .5pt" 
+    width=319 bgColor=#606060 height=10>
+      <P class=MsoNormal style="MARGIN-TOP: 3pt; mso-outline-level: 3"><B><FONT 
+      face=Arial color=white size=2><SPAN 
+      style="FONT-WEIGHT: bold; FONT-SIZE: 11pt; TEXT-TRANSFORM: uppercase; COLOR: white; FONT-FAMILY: Arial; mso-bidi-font-size: 10.0pt">creating 
+      a STore REgistry So<o:p></o:p></SPAN></FONT></B></P></TD>
+    <TD 
+    style="BORDER-RIGHT: medium none; PADDING-RIGHT: 5.4pt; BORDER-TOP: medium none; PADDING-LEFT: 5.4pt; PADDING-BOTTOM: 0in; BORDER-LEFT: medium none; WIDTH: 207.4pt; PADDING-TOP: 0in; BORDER-BOTTOM: windowtext 1pt solid; HEIGHT: 0.1in; mso-border-bottom-alt: solid windowtext .5pt" 
+    width=277 height=10>
+      <P class=MsoNormal><FONT face="Albertus Extra Bold" size=1><SPAN 
+      style="FONT-SIZE: 3pt; TEXT-TRANSFORM: uppercase; FONT-FAMILY: 'Albertus Extra Bold'"><SPAN 
+      style="mso-spacerun: yes">&nbsp;</SPAN></SPAN></FONT><FONT 
+      face="Albertus Extra Bold" size=1><SPAN 
+      style="FONT-SIZE: 3pt; FONT-FAMILY: 'Albertus Extra Bold'"><o:p></o:p></SPAN></FONT></P></TD></TR></TBODY></TABLE>
+<P class=MsoNormal><FONT face="Times New Roman" size=3><SPAN 
+style="FONT-SIZE: 12pt"><o:p>&nbsp;</o:p></SPAN></FONT></P>
+<TABLE class=MsoTableGrid 
+style="BORDER-COLLAPSE: collapse; mso-yfti-tbllook: 480; mso-padding-alt: 0in 5.4pt 0in 5.4pt" 
+cellSpacing=0 cellPadding=0 border=0>
+  <TBODY>
+  <TR style="mso-yfti-irow: 0; mso-yfti-firstrow: yes; mso-yfti-lastrow: yes">
+    <TD 
+    style="PADDING-RIGHT: 5.4pt; PADDING-LEFT: 5.4pt; PADDING-BOTTOM: 0in; WIDTH: 6.15in; PADDING-TOP: 0in" 
+    vAlign=top width=590>
+      <P class=MsoNormal><FONT face="Times New Roman" size=3><SPAN 
+      style="FONT-SIZE: 12pt">To create a new Store Registry SO:<SPAN 
+      style="mso-spacerun: yes">&nbsp; </SPAN>(Note that creating a Company 
+      Registry involves the same steps, except you choose “Company Registry” 
+      when prompted in the second step described 
+  below.)</SPAN></FONT></P></TD></TR></TBODY></TABLE>
+<P class=MsoNormal><FONT face="Times New Roman" size=1><SPAN 
+style="FONT-SIZE: 8pt"><o:p>&nbsp;</o:p></SPAN></FONT></P>
+<TABLE class=MsoTableGrid 
+style="BORDER-COLLAPSE: collapse; mso-yfti-tbllook: 480; mso-padding-alt: 0in 5.4pt 0in 5.4pt" 
+cellSpacing=0 cellPadding=0 border=0>
+  <TBODY>
+  <TR style="mso-yfti-irow: 0; mso-yfti-firstrow: yes">
+    <TD 
+    style="PADDING-RIGHT: 5.4pt; PADDING-LEFT: 5.4pt; PADDING-BOTTOM: 0in; WIDTH: 138.6pt; PADDING-TOP: 0in" 
+    vAlign=top width=185>
+      <P class=MsoNormal 
+      style="MARGIN: 0in 0in 12pt 0.25in; TEXT-INDENT: -0.25in; tab-stops: list .25in; mso-list: l8 level1 lfo3"><![if !supportLists]><FONT 
+      face=Wingdings color=blue size=3><SPAN 
+      style="FONT-SIZE: 12pt; COLOR: blue; FONT-FAMILY: Wingdings; mso-fareast-font-family: Wingdings; mso-bidi-font-family: Wingdings"><SPAN 
+      style="mso-list: Ignore">t<FONT face="Times New Roman" size=1><SPAN 
+      style="FONT: 7pt 'Times New Roman'">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+      </SPAN></FONT></SPAN></SPAN></FONT><![endif]><SPAN dir=ltr><B 
+      style="mso-bidi-font-weight: normal"><SPAN 
+      style="FONT-WEIGHT: bold; mso-bidi-font-weight: normal">Access Sales Order 
+      Area<o:p></o:p></SPAN></B></SPAN></P></TD>
+    <TD 
+    style="PADDING-RIGHT: 5.4pt; PADDING-LEFT: 5.4pt; PADDING-BOTTOM: 0in; WIDTH: 304.2pt; PADDING-TOP: 0in" 
+    vAlign=top width=406>
+      <P class=MsoNormal style="MARGIN-BOTTOM: 12pt"><FONT 
+      face="Times New Roman" size=3><SPAN style="FONT-SIZE: 12pt">From the “<I 
+      style="mso-bidi-font-style: normal"><SPAN 
+      style="FONT-STYLE: italic; mso-bidi-font-style: normal">Home</SPAN></I>” 
+      screen, select “Sales &gt; Sales Orders” to access the “<I 
+      style="mso-bidi-font-style: normal"><SPAN 
+      style="FONT-STYLE: italic; mso-bidi-font-style: normal">Sales 
+      Order</SPAN></I>” area.</SPAN></FONT></P>
+      <P class=MsoNormal style="MARGIN-BOTTOM: 12pt"><!--[if gte vml 1]><v:oval 
+      id=_x0000_s1068 
+      style="MARGIN-TOP: 47.25pt; Z-INDEX: 1; MARGIN-LEFT: 44.4pt; WIDTH: 65.25pt; POSITION: absolute; HEIGHT: 22.5pt" 
+      coordsize = "21600,21600" filled = "f" strokecolor = "red" strokeweight = 
+      "2pt"></v:oval><![endif]--><![if !vml]><span style='mso-ignore:vglayout;
+  position:absolute;z-index:1;margin-left:57px;margin-top:61px;width:91px;
+  height:34px'><img width=91 height=34
+  src="123B777B-54DF-457E-94AC-D14971A50118_files/image003.gif" v:shapes="_x0000_s1068"></span><![endif]><FONT 
+      face="Times New Roman" size=3><!--[if gte vml 1]><v:shape id=_x0000_i1026 
+      style="WIDTH: 279pt; HEIGHT: 159.75pt" type = "#_x0000_t75" coordsize = 
+      "21600,21600"><v:imagedata o:title="layaway" src = 
+      "123B777B-54DF-457E-94AC-D14971A50118_files/image004.png"></v:imagedata></v:shape><![endif]--><![if !vml]><img width=372 height=213
+  src="123B777B-54DF-457E-94AC-D14971A50118_files/image005.jpg" v:shapes="_x0000_i1026"><![endif]></FONT></P></TD></TR>
+  <TR style="mso-yfti-irow: 1">
+    <TD 
+    style="PADDING-RIGHT: 5.4pt; PADDING-LEFT: 5.4pt; PADDING-BOTTOM: 0in; WIDTH: 138.6pt; PADDING-TOP: 0in" 
+    vAlign=top width=185>
+      <P class=MsoNormal 
+      style="MARGIN: 0in 0in 12pt 0.25in; TEXT-INDENT: -0.25in; tab-stops: list .25in; mso-list: l8 level1 lfo3"><![if !supportLists]><FONT 
+      face=Wingdings color=blue size=3><SPAN 
+      style="FONT-SIZE: 12pt; COLOR: blue; FONT-FAMILY: Wingdings; mso-fareast-font-family: Wingdings; mso-bidi-font-family: Wingdings"><SPAN 
+      style="mso-list: Ignore">t<FONT face="Times New Roman" size=1><SPAN 
+      style="FONT: 7pt 'Times New Roman'">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+      </SPAN></FONT></SPAN></SPAN></FONT><![endif]><SPAN dir=ltr><B 
+      style="mso-bidi-font-weight: normal"><SPAN 
+      style="FONT-WEIGHT: bold; mso-bidi-font-weight: normal">Create Store 
+      Registry SO<o:p></o:p></SPAN></B></SPAN></P></TD>
+    <TD 
+    style="PADDING-RIGHT: 5.4pt; PADDING-LEFT: 5.4pt; PADDING-BOTTOM: 0in; WIDTH: 304.2pt; PADDING-TOP: 0in" 
+    vAlign=top width=406>
+      <P class=MsoNormal style="MARGIN-BOTTOM: 12pt"><FONT 
+      face="Times New Roman" size=3><SPAN style="FONT-SIZE: 12pt">On the “<I 
+      style="mso-bidi-font-style: normal"><SPAN 
+      style="FONT-STYLE: italic; mso-bidi-font-style: normal">Sales 
+      Orders</SPAN></I>” screen, select <B 
+      style="mso-bidi-font-weight: normal"><SPAN 
+      style="FONT-WEIGHT: bold; mso-bidi-font-weight: normal">New</SPAN></B> on 
+      the menu toolbar to create a new SO.<SPAN style="mso-spacerun: yes">&nbsp; 
+      </SPAN>When prompted, choose <B style="mso-bidi-font-weight: normal"><SPAN 
+      style="FONT-WEIGHT: bold; mso-bidi-font-weight: normal">Store 
+      Registry</SPAN></B> to create a Store Registry SO.</SPAN></FONT></P>
+      <P class=MsoNormal style="MARGIN-BOTTOM: 12pt"><!--[if gte vml 1]><v:oval 
+      id=_x0000_s1069 
+      style="MARGIN-TOP: 78.75pt; Z-INDEX: 2; MARGIN-LEFT: 132.9pt; WIDTH: 55.5pt; POSITION: absolute; HEIGHT: 37.5pt" 
+      coordsize = "21600,21600" filled = "f" strokecolor = "red" strokeweight = 
+      "2pt"></v:oval><![endif]--><![if !vml]><span style='mso-ignore:vglayout;
+  position:absolute;z-index:2;margin-left:175px;margin-top:103px;width:78px;
+  height:54px'><img width=78 height=54
+  src="123B777B-54DF-457E-94AC-D14971A50118_files/image006.gif" v:shapes="_x0000_s1069"></span><![endif]><FONT 
+      face="Times New Roman" size=3><!--[if gte vml 1]><v:shape id=_x0000_i1027 
+      style="WIDTH: 279pt; HEIGHT: 160.5pt" type = "#_x0000_t75" coordsize = 
+      "21600,21600"><v:imagedata o:title="layaway2" src = 
+      "123B777B-54DF-457E-94AC-D14971A50118_files/image007.png"></v:imagedata></v:shape><![endif]--><![if !vml]><img width=372 height=214
+  src="123B777B-54DF-457E-94AC-D14971A50118_files/image008.jpg" v:shapes="_x0000_i1027"><![endif]></FONT></P></TD></TR>
+  <TR style="mso-yfti-irow: 2">
+    <TD 
+    style="PADDING-RIGHT: 5.4pt; PADDING-LEFT: 5.4pt; PADDING-BOTTOM: 0in; WIDTH: 138.6pt; PADDING-TOP: 0in" 
+    vAlign=top width=185>
+      <P class=MsoNormal 
+      style="MARGIN: 0in 0in 12pt 0.25in; TEXT-INDENT: -0.25in; tab-stops: list .25in; mso-list: l8 level1 lfo3"><![if !supportLists]><FONT 
+      face=Wingdings color=blue size=3><SPAN 
+      style="FONT-SIZE: 12pt; COLOR: blue; FONT-FAMILY: Wingdings; mso-fareast-font-family: Wingdings; mso-bidi-font-family: Wingdings"><SPAN 
+      style="mso-list: Ignore">t<FONT face="Times New Roman" size=1><SPAN 
+      style="FONT: 7pt 'Times New Roman'">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+      </SPAN></FONT></SPAN></SPAN></FONT><![endif]><SPAN dir=ltr><B 
+      style="mso-bidi-font-weight: normal"><SPAN 
+      style="FONT-WEIGHT: bold; mso-bidi-font-weight: normal">Enter SO 
+      Information<o:p></o:p></SPAN></B></SPAN></P></TD>
+    <TD 
+    style="PADDING-RIGHT: 5.4pt; PADDING-LEFT: 5.4pt; PADDING-BOTTOM: 0in; WIDTH: 304.2pt; PADDING-TOP: 0in" 
+    vAlign=top width=406>
+      <P class=MsoNormal><FONT face="Times New Roman" size=3><SPAN 
+      style="FONT-SIZE: 12pt">On the new Store Registry SO, enter all necessary 
+      information, such as:</SPAN></FONT></P>
+      <P class=MsoNormal><FONT face="Times New Roman" size=1><SPAN 
+      style="FONT-SIZE: 6pt"><o:p>&nbsp;</o:p></SPAN></FONT></P>
+      <P class=MsoNormal 
+      style="MARGIN: 0in 0in 6pt 0.25in; TEXT-INDENT: -0.25in; tab-stops: list .25in; mso-list: l0 level1 lfo19"><![if !supportLists]><FONT 
+      face=Wingdings size=3><SPAN 
+      style="FONT-SIZE: 12pt; FONT-FAMILY: Wingdings; mso-fareast-font-family: Wingdings; mso-bidi-font-family: Wingdings"><SPAN 
+      style="mso-list: Ignore">§<FONT face="Times New Roman" size=1><SPAN 
+      style="FONT: 7pt 'Times New Roman'">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+      </SPAN></FONT></SPAN></SPAN></FONT><![endif]><SPAN dir=ltr><B 
+      style="mso-bidi-font-weight: normal"><SPAN 
+      style="FONT-WEIGHT: bold; mso-bidi-font-weight: normal">Customer</SPAN></B> 
+      – the customer to whom the purchased registry items are 
+      intended.</SPAN></P>
+      <P class=MsoNormal 
+      style="MARGIN: 0in 0in 6pt 0.25in; TEXT-INDENT: -0.25in; tab-stops: list .25in; mso-list: l0 level1 lfo19"><![if !supportLists]><FONT 
+      face=Wingdings size=3><SPAN 
+      style="FONT-SIZE: 12pt; FONT-FAMILY: Wingdings; mso-fareast-font-family: Wingdings; mso-bidi-font-family: Wingdings"><SPAN 
+      style="mso-list: Ignore">§<FONT face="Times New Roman" size=1><SPAN 
+      style="FONT: 7pt 'Times New Roman'">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+      </SPAN></FONT></SPAN></SPAN></FONT><![endif]><SPAN dir=ltr><B 
+      style="mso-bidi-font-weight: normal"><SPAN 
+      style="FONT-WEIGHT: bold; mso-bidi-font-weight: normal">Items </SPAN></B>– 
+      list of all items the customer would like others to purchase for 
+      him/her.</SPAN></P>
+      <P class=MsoNormal 
+      style="MARGIN: 0in 0in 6pt 0.25in; TEXT-INDENT: -0.25in; tab-stops: list .25in; mso-list: l0 level1 lfo19"><![if !supportLists]><FONT 
+      face=Wingdings size=3><SPAN 
+      style="FONT-SIZE: 12pt; FONT-FAMILY: Wingdings; mso-fareast-font-family: Wingdings; mso-bidi-font-family: Wingdings"><SPAN 
+      style="mso-list: Ignore">§<FONT face="Times New Roman" size=1><SPAN 
+      style="FONT: 7pt 'Times New Roman'">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+      </SPAN></FONT></SPAN></SPAN></FONT><![endif]><SPAN dir=ltr><B 
+      style="mso-bidi-font-weight: normal"><SPAN 
+      style="FONT-WEIGHT: bold; mso-bidi-font-weight: normal">Event 
+      Date</SPAN></B> <B style="mso-bidi-font-weight: normal"><SPAN 
+      style="FONT-WEIGHT: bold; mso-bidi-font-weight: normal">–</SPAN></B> the 
+      date the event for which the gifts are being purchased will take 
+      place.</SPAN></P>
+      <P class=MsoNormal style="MARGIN: 0in 0in 6pt 0.25in"><B 
+      style="mso-bidi-font-weight: normal"><I 
+      style="mso-bidi-font-style: normal"><FONT face="Times New Roman" 
+      size=3><SPAN 
+      style="FONT-WEIGHT: bold; FONT-SIZE: 12pt; FONT-STYLE: italic; mso-bidi-font-style: normal; mso-bidi-font-weight: normal">Note</SPAN></FONT></I></B>:<SPAN 
+      style="mso-spacerun: yes">&nbsp; </SPAN>You can reference the Registry SO 
+      even after passing the event date.<SPAN style="mso-spacerun: yes">&nbsp; 
+      </SPAN></P>
+      <P class=MsoNormal><FONT face="Times New Roman" size=3><SPAN 
+      style="FONT-SIZE: 12pt"><!--[if gte vml 1]><v:shape id=_x0000_i1028 
+      style="WIDTH: 279.75pt; HEIGHT: 210pt" type = "#_x0000_t75" coordsize = 
+      "21600,21600"><v:imagedata o:title="registry" src = 
+      "123B777B-54DF-457E-94AC-D14971A50118_files/image009.png"></v:imagedata></v:shape><![endif]--><![if !vml]><img width=373 height=280
+  src="123B777B-54DF-457E-94AC-D14971A50118_files/image010.jpg" v:shapes="_x0000_i1028"><![endif]></SPAN></FONT></P>
+      <P class=MsoNormal><FONT face="Times New Roman" size=3><SPAN 
+      style="FONT-SIZE: 12pt"><o:p>&nbsp;</o:p></SPAN></FONT></P></TD></TR>
+  <TR style="mso-yfti-irow: 3; mso-yfti-lastrow: yes">
+    <TD 
+    style="PADDING-RIGHT: 5.4pt; PADDING-LEFT: 5.4pt; PADDING-BOTTOM: 0in; WIDTH: 138.6pt; PADDING-TOP: 0in" 
+    vAlign=top width=185>
+      <P class=MsoNormal 
+      style="MARGIN: 0in 0in 12pt 0.25in; TEXT-INDENT: -0.25in; tab-stops: list .25in; mso-list: l8 level1 lfo3"><![if !supportLists]><FONT 
+      face=Wingdings color=blue size=3><SPAN 
+      style="FONT-SIZE: 12pt; COLOR: blue; FONT-FAMILY: Wingdings; mso-fareast-font-family: Wingdings; mso-bidi-font-family: Wingdings"><SPAN 
+      style="mso-list: Ignore">t<FONT face="Times New Roman" size=1><SPAN 
+      style="FONT: 7pt 'Times New Roman'">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+      </SPAN></FONT></SPAN></SPAN></FONT><![endif]><SPAN dir=ltr><B 
+      style="mso-bidi-font-weight: normal"><SPAN 
+      style="FONT-WEIGHT: bold; mso-bidi-font-weight: normal">Save 
+      SO<o:p></o:p></SPAN></B></SPAN></P></TD>
+    <TD 
+    style="PADDING-RIGHT: 5.4pt; PADDING-LEFT: 5.4pt; PADDING-BOTTOM: 0in; WIDTH: 304.2pt; PADDING-TOP: 0in" 
+    vAlign=top width=406>
+      <P class=MsoNormal style="MARGIN-BOTTOM: 12pt"><FONT 
+      face="Times New Roman" size=3><SPAN style="FONT-SIZE: 12pt">When ready, 
+      select <B style="mso-bidi-font-weight: normal"><SPAN 
+      style="FONT-WEIGHT: bold; mso-bidi-font-weight: normal">Save</SPAN></B> on 
+      the menu toolbar to save the SO.</SPAN></FONT></P></TD></TR></TBODY></TABLE>
+<P class=MsoNormal><FONT face="Times New Roman" size=3><SPAN 
+style="FONT-SIZE: 12pt"><o:p>&nbsp;</o:p></SPAN></FONT></P>
+<P class=MsoNormal><FONT face="Times New Roman" size=3><SPAN 
+style="FONT-SIZE: 12pt"><o:p>&nbsp;</o:p></SPAN></FONT></P></DIV>
+<SCRIPT>if(prnt && prnt.GetWrdTmplBtm)document.write(prnt.GetWrdTmplBtm());if(prnt && prnt.GetTmplBtm)document.write(prnt.GetTmplBtm());</SCRIPT>
+
+<SCRIPT>if(prnt && prnt.GetTmplBGClr)document.bgColor=prnt.GetTmplBGClr();/*if(prnt && prnt.DoTmplDtor)prnt.DoTmplDtor(window.document);*/</SCRIPT>
+</BODY></HTML>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               INDX( 	 ¡&3            (   ¨  è       r y Í                ‰¼    p ^     ˆ¼    &ÅŒ Í ”YI}Ì&ÅŒ Í&ÅŒ Í       ×              F i l e U t i l . c l a s s   ‰¼    p Z     ˆ¼    &ÅŒ Í ”YI}Ì&ÅŒ Í&ÅŒ Í       ×              F I L E U T ~ 1 . C L A       Ž¼    p Z     ˆ¼    çÜ“ÅŒ Í ”YI}ÌçÜ“ÅŒ ÍçÜ“ÅŒ Í                     F L 3 C 5 B ~ 1 . C L A t o r Š¼    ˆ r     ˆ¼    &ÅŒ Í ”YI}Ì&ÅŒ Í&ÅŒ Íà       Ù               F l y w e i g h t F a c t o  y $ 1 . c l a s s       ‹¼    ˜ ‚     ˆ¼    ‡{‘ÅŒ Í ”YI}Ì‡{‘ÅŒ Í‡{‘ÅŒ Í       H               F l y w e i g h t F a c t o r y $ F l y w e i g h t . c l a s s       Œ¼    € n     ˆ¼    ‡{‘ÅŒ Í ”YI}Ì‡{‘ÅŒ Í‡{‘ÅŒ Í       Ý              F l y w e i g h t F a c t o r y . c l a s s   ¼    x h     ˆ¼    ‡{‘ÅŒ Í ”YI}Ì‡{‘ÅŒ Í‡{‘ÅŒ Íð       ë               F l y w e i g h t I n t r . c l a s s Ž¼    x h     ˆ¼    çÜ“ÅŒ Í ”YI}ÌçÜ“ÅŒ ÍçÜ“ÅŒ Í                     F l  w e i g

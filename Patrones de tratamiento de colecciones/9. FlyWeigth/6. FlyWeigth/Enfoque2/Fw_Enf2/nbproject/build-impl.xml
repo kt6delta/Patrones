@@ -1,0 +1,752 @@
+﻿<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<!-- saved from url=(0330)http://retailpro.coursehost.com/prot/27F35641_6D8D_495E_AAE5_5EC6B744F84B/1/PKs/25080/1486870/qti_B6184C74-AA7A-4101-BA0E-32DD4D69D29D.htm?cID=6EC036C3-501B-45C1-805E-4394F4471218&uPK=80543&cPK=845649&oID=73DCB08B-4B8B-4E9A-A965-2E7E84EAC4EA&ft=1&n=0&LID=1&ky=PPC3I.MVnE6FRU5pszP_R11MXefO39Sk&d=C082E868&tpl=17,14129,0,17&csPK=400 -->
+<HTML><HEAD>
+<META http-equiv=Content-Type content="text/html; charset=utf-8">
+<SCRIPT>
+var prnt=null;
+if (parent && parent.GetTmplBtm)
+	prnt=parent;
+else if (opener && opener.GetTmplBtm)
+	prnt=opener;
+
+//Template Constructor
+if (prnt && prnt.DoTmplCtor)
+	prnt.DoTmplCtor(window.document);
+</SCRIPT>
+
+<STYLE>P.MsoNormal {
+	MARGIN-TOP: 0px; MARGIN-BOTTOM: 0px
+}
+</STYLE>
+
+<META content="MSHTML 6.00.6000.20591" name=GENERATOR></HEAD>
+<BODY>
+<SCRIPT>
+	//Template top
+	if (prnt && prnt.GetTmplTop)
+		document.write(prnt.GetTmplTop());
+</SCRIPT>
+
+<FORM name=thisForm method=post>
+<SCRIPT 
+src="qti_B6184C74-AA7A-4101-BA0E-32DD4D69D29D_archivos/Hooks.js"></SCRIPT>
+
+<SCRIPT src="qti_B6184C74-AA7A-4101-BA0E-32DD4D69D29D_archivos/MQ2.js"></SCRIPT>
+<INPUT type=hidden value=0 name=targID> <INPUT type=hidden value=0 name=sbmt> 
+<INPUT type=hidden name=note> <INPUT type=hidden name=mft_hotspot><INPUT 
+type=hidden name=mft_dnd>
+<SCRIPT>
+function ShowRespDND(qid) {return 0}
+function ShowRespHS(qid) {return 0}
+</SCRIPT>
+
+<SCRIPT language=JavaScript 
+src="qti_B6184C74-AA7A-4101-BA0E-32DD4D69D29D_archivos/QTIfb.js"></SCRIPT>
+
+<SCRIPT language=JavaScript src=""></SCRIPT>
+ <BR><INPUT type=hidden 
+value=URN:IMS-PLIRID-V1:MFT:12345:qtiv1p2:I_V0FWXpoanfBjk6aC25080 name=Qids>
+<SCRIPT>MQBgnQ('fb_I_V0FWXpoanfBjk6aC25080');</SCRIPT>
+
+<TABLE cellSpacing=0 width=576 bgColor=#ffffff border=0>
+  <TBODY>
+  <TR>
+    <TD vAlign=top>
+      <TABLE class=MsoTableGrid 
+      style="BACKGROUND: white; BORDER-COLLAPSE: collapse" cellSpacing=0 
+      cellPadding=0 bgColor=white border=0>
+        <TBODY>
+        <TR>
+          <TD 
+          style="PADDING-RIGHT: 5.4pt; PADDING-LEFT: 5.4pt; PADDING-BOTTOM: 0in; WIDTH: 100%; PADDING-TOP: 0in" 
+          vAlign=top width="100%">
+            <P class=MsoNormal><FONT face=Arial color=black size=2><SPAN 
+            style="FONT-SIZE: 10pt; COLOR: black; FONT-FAMILY: Arial">Which 
+            Sales Order type would typically be used to track the future sale of 
+            an item that is currently in 
+      stock?</SPAN></FONT></P></TD></TR></TBODY></TABLE></TD></TR>
+  <TR>
+    <TD vAlign=top><INPUT type=hidden value=RIdent1 
+      name=I_V0FWXpoanfBjk6aC25080>
+      <TABLE cellSpacing=0 width="100%" bgColor=#ffffff border=0>
+        <TBODY>
+        <TR>
+          <TD vAlign=top><INPUT type=radio value=A0 
+            name=I_V0FWXpoanfBjk6aC25080_M_F_RIdent1></TD>
+          <TD width="95%">
+            <TABLE class=MsoTableGrid 
+            style="BACKGROUND: white; BORDER-COLLAPSE: collapse" cellSpacing=0 
+            cellPadding=0 bgColor=white border=0>
+              <TBODY>
+              <TR>
+                <TD 
+                style="PADDING-RIGHT: 5.4pt; PADDING-LEFT: 5.4pt; PADDING-BOTTOM: 0in; WIDTH: 100%; PADDING-TOP: 0in" 
+                vAlign=top width="100%">
+                  <P class=MsoNormal><FONT face=Arial color=black size=2><SPAN 
+                  style="FONT-SIZE: 10pt; COLOR: black; FONT-FAMILY: Arial">Customer 
+                  Order SO</SPAN></FONT></P></TD></TR></TBODY></TABLE></TD></TR>
+        <TR>
+          <TD vAlign=top><INPUT type=radio value=A1 
+            name=I_V0FWXpoanfBjk6aC25080_M_F_RIdent1></TD>
+          <TD width="95%">
+            <TABLE class=MsoTableGrid 
+            style="BACKGROUND: white; BORDER-COLLAPSE: collapse" cellSpacing=0 
+            cellPadding=0 bgColor=white border=0>
+              <TBODY>
+              <TR>
+                <TD 
+                style="PADDING-RIGHT: 5.4pt; PADDING-LEFT: 5.4pt; PADDING-BOTTOM: 0in; WIDTH: 100%; PADDING-TOP: 0in" 
+                vAlign=top width="100%">
+                  <P class=MsoNormal><FONT face=Arial color=black size=2><SPAN 
+                  style="FONT-SIZE: 10pt; COLOR: black; FONT-FAMILY: Arial">Layaway 
+                  SO</SPAN></FONT></P></TD></TR></TBODY></TABLE></TD></TR>
+        <TR>
+          <TD vAlign=top><INPUT type=radio value=A2 
+            name=I_V0FWXpoanfBjk6aC25080_M_F_RIdent1></TD>
+          <TD width="95%">
+            <TABLE class=MsoTableGrid 
+            style="BACKGROUND: white; BORDER-COLLAPSE: collapse" cellSpacing=0 
+            cellPadding=0 bgColor=white border=0>
+              <TBODY>
+              <TR>
+                <TD 
+                style="PADDING-RIGHT: 5.4pt; PADDING-LEFT: 5.4pt; PADDING-BOTTOM: 0in; WIDTH: 100%; PADDING-TOP: 0in" 
+                vAlign=top width="100%">
+                  <P class=MsoNormal><FONT face=Arial color=black size=2><SPAN 
+                  style="FONT-SIZE: 10pt; COLOR: black; FONT-FAMILY: Arial">Special 
+                  Order SO</SPAN></FONT></P></TD></TR></TBODY></TABLE></TD></TR>
+        <TR>
+          <TD vAlign=top><INPUT type=radio value=A3 
+            name=I_V0FWXpoanfBjk6aC25080_M_F_RIdent1></TD>
+          <TD width="95%">
+            <TABLE class=MsoTableGrid 
+            style="BACKGROUND: white; BORDER-COLLAPSE: collapse" cellSpacing=0 
+            cellPadding=0 bgColor=white border=0>
+              <TBODY>
+              <TR>
+                <TD 
+                style="PADDING-RIGHT: 5.4pt; PADDING-LEFT: 5.4pt; PADDING-BOTTOM: 0in; WIDTH: 100%; PADDING-TOP: 0in" 
+                vAlign=top width="100%">
+                  <P class=MsoNormal><FONT face=Arial color=black size=2><SPAN 
+                  style="FONT-SIZE: 10pt; COLOR: black; FONT-FAMILY: Arial">Store 
+                  Registry SO</SPAN></FONT></P></TD></TR></TBODY></TABLE></TD></TR>
+        <TR>
+          <TD vAlign=top><INPUT type=radio value=A4 
+            name=I_V0FWXpoanfBjk6aC25080_M_F_RIdent1></TD>
+          <TD width="95%">
+            <TABLE class=MsoTableGrid 
+            style="BACKGROUND: white; BORDER-COLLAPSE: collapse" cellSpacing=0 
+            cellPadding=0 bgColor=white border=0>
+              <TBODY>
+              <TR>
+                <TD 
+                style="PADDING-RIGHT: 5.4pt; PADDING-LEFT: 5.4pt; PADDING-BOTTOM: 0in; WIDTH: 100%; PADDING-TOP: 0in" 
+                vAlign=top width="100%">
+                  <P class=MsoNormal><FONT face=Arial color=black size=2><SPAN 
+                  style="FONT-SIZE: 10pt; COLOR: black; FONT-FAMILY: Arial">Company 
+                  Registry 
+      SO</SPAN></FONT></P></TD></TR></TBODY></TABLE></TD></TR></TBODY></TABLE></TD></TR></TBODY></TABLE>
+<SCRIPT>
+		MQBgnHtmArea('fb_I_V0FWXpoanfBjk6aC25080',true);
+		MQEndHtmArea('fb_I_V0FWXpoanfBjk6aC25080');
+		MQSetFdBk2('fb_I_V0FWXpoanfBjk6aC25080', getQTIPts('I_V0FWXpoanfBjk6aC25080'), getSolnLnk('I_V0FWXpoanfBjk6aC25080'), getfb_I_V0FWXpoanfBjk6aC25080())
+		MQEndQ('fb_I_V0FWXpoanfBjk6aC25080');
+		</SCRIPT>
+<BR><INPUT type=hidden 
+value=URN:IMS-PLIRID-V1:MFT:12345:qtiv1p2:I_V0FWXpoanfBjk10225080 name=Qids>
+<SCRIPT>MQBgnQ('fb_I_V0FWXpoanfBjk10225080');</SCRIPT>
+
+<TABLE cellSpacing=0 width=576 bgColor=#ffffff border=0>
+  <TBODY>
+  <TR>
+    <TD vAlign=top>
+      <TABLE class=MsoTableGrid 
+      style="BACKGROUND: white; BORDER-COLLAPSE: collapse" cellSpacing=0 
+      cellPadding=0 bgColor=white border=0>
+        <TBODY>
+        <TR>
+          <TD 
+          style="PADDING-RIGHT: 5.4pt; PADDING-LEFT: 5.4pt; PADDING-BOTTOM: 0in; WIDTH: 100%; PADDING-TOP: 0in" 
+          vAlign=top width="100%">
+            <P class=MsoNormal><FONT face=Arial color=black size=2><SPAN 
+            style="FONT-SIZE: 10pt; COLOR: black; FONT-FAMILY: Arial">Which 
+            Sales Order type would typically be used to track the future sale of 
+            an item that is currently out of 
+        stock?</SPAN></FONT></P></TD></TR></TBODY></TABLE></TD></TR>
+  <TR>
+    <TD vAlign=top><INPUT type=hidden value=RIdent1 
+      name=I_V0FWXpoanfBjk10225080>
+      <TABLE cellSpacing=0 width="100%" bgColor=#ffffff border=0>
+        <TBODY>
+        <TR>
+          <TD vAlign=top><INPUT type=radio value=A0 
+            name=I_V0FWXpoanfBjk10225080_M_F_RIdent1></TD>
+          <TD width="95%">
+            <TABLE class=MsoTableGrid 
+            style="BACKGROUND: white; BORDER-COLLAPSE: collapse" cellSpacing=0 
+            cellPadding=0 bgColor=white border=0>
+              <TBODY>
+              <TR>
+                <TD 
+                style="PADDING-RIGHT: 5.4pt; PADDING-LEFT: 5.4pt; PADDING-BOTTOM: 0in; WIDTH: 100%; PADDING-TOP: 0in" 
+                vAlign=top width="100%">
+                  <P class=MsoNormal><FONT face=Arial color=black size=2><SPAN 
+                  style="FONT-SIZE: 10pt; COLOR: black; FONT-FAMILY: Arial">Customer 
+                  Order SO</SPAN></FONT></P></TD></TR></TBODY></TABLE></TD></TR>
+        <TR>
+          <TD vAlign=top><INPUT type=radio value=A1 
+            name=I_V0FWXpoanfBjk10225080_M_F_RIdent1></TD>
+          <TD width="95%">
+            <TABLE class=MsoTableGrid 
+            style="BACKGROUND: white; BORDER-COLLAPSE: collapse" cellSpacing=0 
+            cellPadding=0 bgColor=white border=0>
+              <TBODY>
+              <TR>
+                <TD 
+                style="PADDING-RIGHT: 5.4pt; PADDING-LEFT: 5.4pt; PADDING-BOTTOM: 0in; WIDTH: 100%; PADDING-TOP: 0in" 
+                vAlign=top width="100%">
+                  <P class=MsoNormal><FONT face=Arial color=black size=2><SPAN 
+                  style="FONT-SIZE: 10pt; COLOR: black; FONT-FAMILY: Arial">Layaway 
+                  SO</SPAN></FONT></P></TD></TR></TBODY></TABLE></TD></TR>
+        <TR>
+          <TD vAlign=top><INPUT type=radio value=A2 
+            name=I_V0FWXpoanfBjk10225080_M_F_RIdent1></TD>
+          <TD width="95%">
+            <TABLE class=MsoTableGrid 
+            style="BACKGROUND: white; BORDER-COLLAPSE: collapse" cellSpacing=0 
+            cellPadding=0 bgColor=white border=0>
+              <TBODY>
+              <TR>
+                <TD 
+                style="PADDING-RIGHT: 5.4pt; PADDING-LEFT: 5.4pt; PADDING-BOTTOM: 0in; WIDTH: 100%; PADDING-TOP: 0in" 
+                vAlign=top width="100%">
+                  <P class=MsoNormal><FONT face=Arial color=black size=2><SPAN 
+                  style="FONT-SIZE: 10pt; COLOR: black; FONT-FAMILY: Arial">Special 
+                  Order SO</SPAN></FONT></P></TD></TR></TBODY></TABLE></TD></TR>
+        <TR>
+          <TD vAlign=top><INPUT type=radio value=A3 
+            name=I_V0FWXpoanfBjk10225080_M_F_RIdent1></TD>
+          <TD width="95%">
+            <TABLE class=MsoTableGrid 
+            style="BACKGROUND: white; BORDER-COLLAPSE: collapse" cellSpacing=0 
+            cellPadding=0 bgColor=white border=0>
+              <TBODY>
+              <TR>
+                <TD 
+                style="PADDING-RIGHT: 5.4pt; PADDING-LEFT: 5.4pt; PADDING-BOTTOM: 0in; WIDTH: 100%; PADDING-TOP: 0in" 
+                vAlign=top width="100%">
+                  <P class=MsoNormal><FONT face=Arial color=black size=2><SPAN 
+                  style="FONT-SIZE: 10pt; COLOR: black; FONT-FAMILY: Arial">Store 
+                  Registry SO</SPAN></FONT></P></TD></TR></TBODY></TABLE></TD></TR>
+        <TR>
+          <TD vAlign=top><INPUT type=radio value=A4 
+            name=I_V0FWXpoanfBjk10225080_M_F_RIdent1></TD>
+          <TD width="95%">
+            <TABLE class=MsoTableGrid 
+            style="BACKGROUND: white; BORDER-COLLAPSE: collapse" cellSpacing=0 
+            cellPadding=0 bgColor=white border=0>
+              <TBODY>
+              <TR>
+                <TD 
+                style="PADDING-RIGHT: 5.4pt; PADDING-LEFT: 5.4pt; PADDING-BOTTOM: 0in; WIDTH: 100%; PADDING-TOP: 0in" 
+                vAlign=top width="100%">
+                  <P class=MsoNormal><FONT face=Arial color=black size=2><SPAN 
+                  style="FONT-SIZE: 10pt; COLOR: black; FONT-FAMILY: Arial">Company 
+                  Registry 
+      SO</SPAN></FONT></P></TD></TR></TBODY></TABLE></TD></TR></TBODY></TABLE></TD></TR></TBODY></TABLE>
+<SCRIPT>
+		MQBgnHtmArea('fb_I_V0FWXpoanfBjk10225080',true);
+		MQEndHtmArea('fb_I_V0FWXpoanfBjk10225080');
+		MQSetFdBk2('fb_I_V0FWXpoanfBjk10225080', getQTIPts('I_V0FWXpoanfBjk10225080'), getSolnLnk('I_V0FWXpoanfBjk10225080'), getfb_I_V0FWXpoanfBjk10225080())
+		MQEndQ('fb_I_V0FWXpoanfBjk10225080');
+		</SCRIPT>
+<BR><INPUT type=hidden 
+value=URN:IMS-PLIRID-V1:MFT:12345:qtiv1p2:I_YcQLtXOnHYUgvzZV25080 name=Qids>
+<SCRIPT>MQBgnQ('fb_I_YcQLtXOnHYUgvzZV25080');</SCRIPT>
+
+<TABLE cellSpacing=0 width=576 bgColor=#ffffff border=0>
+  <TBODY>
+  <TR>
+    <TD vAlign=top>
+      <TABLE class=MsoTableGrid 
+      style="BACKGROUND: white; BORDER-COLLAPSE: collapse" cellSpacing=0 
+      cellPadding=0 bgColor=white border=0>
+        <TBODY>
+        <TR>
+          <TD 
+          style="PADDING-RIGHT: 5.4pt; PADDING-LEFT: 5.4pt; PADDING-BOTTOM: 0in; WIDTH: 100%; PADDING-TOP: 0in" 
+          vAlign=top width="100%">
+            <P class=MsoNormal><FONT face=Arial color=black size=2><SPAN 
+            style="FONT-SIZE: 10pt; COLOR: black; FONT-FAMILY: Arial">In order 
+            to save a Layaway SO, a deposit must be 
+        taken.</SPAN></FONT></P></TD></TR></TBODY></TABLE></TD></TR>
+  <TR>
+    <TD vAlign=top><INPUT type=hidden value=RIdent1 
+      name=I_YcQLtXOnHYUgvzZV25080>
+      <TABLE cellSpacing=0 width="100%" bgColor=#ffffff border=0>
+        <TBODY>
+        <TR>
+          <TD vAlign=top><INPUT type=radio value=A0 
+            name=I_YcQLtXOnHYUgvzZV25080_M_F_RIdent1></TD>
+          <TD width="95%">
+            <TABLE class=MsoTableGrid 
+            style="BACKGROUND: white; BORDER-COLLAPSE: collapse" cellSpacing=0 
+            cellPadding=0 bgColor=white border=0>
+              <TBODY>
+              <TR>
+                <TD 
+                style="PADDING-RIGHT: 5.4pt; PADDING-LEFT: 5.4pt; PADDING-BOTTOM: 0in; WIDTH: 100%; PADDING-TOP: 0in" 
+                vAlign=top width="100%">
+                  <P class=MsoNormal><FONT face=Arial color=black size=2><SPAN 
+                  style="FONT-SIZE: 10pt; COLOR: black; FONT-FAMILY: Arial">True</SPAN></FONT></P></TD></TR></TBODY></TABLE></TD></TR>
+        <TR>
+          <TD vAlign=top><INPUT type=radio value=A1 
+            name=I_YcQLtXOnHYUgvzZV25080_M_F_RIdent1></TD>
+          <TD width="95%">
+            <TABLE class=MsoTableGrid 
+            style="BACKGROUND: white; BORDER-COLLAPSE: collapse" cellSpacing=0 
+            cellPadding=0 bgColor=white border=0>
+              <TBODY>
+              <TR>
+                <TD 
+                style="PADDING-RIGHT: 5.4pt; PADDING-LEFT: 5.4pt; PADDING-BOTTOM: 0in; WIDTH: 100%; PADDING-TOP: 0in" 
+                vAlign=top width="100%">
+                  <P class=MsoNormal><FONT face=Arial color=black size=2><SPAN 
+                  style="FONT-SIZE: 10pt; COLOR: black; FONT-FAMILY: Arial">False</SPAN></FONT></P></TD></TR></TBODY></TABLE></TD></TR></TBODY></TABLE></TD></TR></TBODY></TABLE>
+<SCRIPT>
+		MQBgnHtmArea('fb_I_YcQLtXOnHYUgvzZV25080',true);
+		MQEndHtmArea('fb_I_YcQLtXOnHYUgvzZV25080');
+		MQSetFdBk2('fb_I_YcQLtXOnHYUgvzZV25080', getQTIPts('I_YcQLtXOnHYUgvzZV25080'), getSolnLnk('I_YcQLtXOnHYUgvzZV25080'), getfb_I_YcQLtXOnHYUgvzZV25080())
+		MQEndQ('fb_I_YcQLtXOnHYUgvzZV25080');
+		</SCRIPT>
+<BR><INPUT type=hidden 
+value=URN:IMS-PLIRID-V1:MFT:12345:qtiv1p2:I_JJp7VWchG5PcHsLr25080 name=Qids>
+<SCRIPT>MQBgnQ('fb_I_JJp7VWchG5PcHsLr25080');</SCRIPT>
+
+<TABLE cellSpacing=0 width=576 bgColor=#ffffff border=0>
+  <TBODY>
+  <TR>
+    <TD vAlign=top>
+      <TABLE class=MsoTableGrid 
+      style="BACKGROUND: white; BORDER-COLLAPSE: collapse" cellSpacing=0 
+      cellPadding=0 bgColor=white border=0>
+        <TBODY>
+        <TR>
+          <TD 
+          style="PADDING-RIGHT: 5.4pt; PADDING-LEFT: 5.4pt; PADDING-BOTTOM: 0in; WIDTH: 100%; PADDING-TOP: 0in" 
+          vAlign=top width="100%">
+            <P class=MsoNormal><FONT face=Arial color=black size=2><SPAN 
+            style="FONT-SIZE: 10pt; COLOR: black; FONT-FAMILY: Arial">Which 
+            document type is created to track SO 
+        Deposits?</SPAN></FONT></P></TD></TR></TBODY></TABLE></TD></TR>
+  <TR>
+    <TD vAlign=top><INPUT type=hidden value=RIdent1 
+      name=I_JJp7VWchG5PcHsLr25080>
+      <TABLE cellSpacing=0 width="100%" bgColor=#ffffff border=0>
+        <TBODY>
+        <TR>
+          <TD vAlign=top><INPUT type=radio value=A0 
+            name=I_JJp7VWchG5PcHsLr25080_M_F_RIdent1></TD>
+          <TD width="95%">
+            <TABLE class=MsoTableGrid 
+            style="BACKGROUND: white; BORDER-COLLAPSE: collapse" cellSpacing=0 
+            cellPadding=0 bgColor=white border=0>
+              <TBODY>
+              <TR>
+                <TD 
+                style="PADDING-RIGHT: 5.4pt; PADDING-LEFT: 5.4pt; PADDING-BOTTOM: 0in; WIDTH: 100%; PADDING-TOP: 0in" 
+                vAlign=top width="100%">
+                  <P class=MsoNormal><FONT face=Arial color=black size=2><SPAN 
+                  style="FONT-SIZE: 10pt; COLOR: black; FONT-FAMILY: Arial">Voucher</SPAN></FONT></P></TD></TR></TBODY></TABLE></TD></TR>
+        <TR>
+          <TD vAlign=top><INPUT type=radio value=A1 
+            name=I_JJp7VWchG5PcHsLr25080_M_F_RIdent1></TD>
+          <TD width="95%">
+            <TABLE class=MsoTableGrid 
+            style="BACKGROUND: white; BORDER-COLLAPSE: collapse" cellSpacing=0 
+            cellPadding=0 bgColor=white border=0>
+              <TBODY>
+              <TR>
+                <TD 
+                style="PADDING-RIGHT: 5.4pt; PADDING-LEFT: 5.4pt; PADDING-BOTTOM: 0in; WIDTH: 100%; PADDING-TOP: 0in" 
+                vAlign=top width="100%">
+                  <P class=MsoNormal><FONT face=Arial color=black size=2><SPAN 
+                  style="FONT-SIZE: 10pt; COLOR: black; FONT-FAMILY: Arial">Purchase 
+                  Order</SPAN></FONT></P></TD></TR></TBODY></TABLE></TD></TR>
+        <TR>
+          <TD vAlign=top><INPUT type=radio value=A2 
+            name=I_JJp7VWchG5PcHsLr25080_M_F_RIdent1></TD>
+          <TD width="95%">
+            <TABLE class=MsoTableGrid 
+            style="BACKGROUND: white; BORDER-COLLAPSE: collapse" cellSpacing=0 
+            cellPadding=0 bgColor=white border=0>
+              <TBODY>
+              <TR>
+                <TD 
+                style="PADDING-RIGHT: 5.4pt; PADDING-LEFT: 5.4pt; PADDING-BOTTOM: 0in; WIDTH: 100%; PADDING-TOP: 0in" 
+                vAlign=top width="100%">
+                  <P class=MsoNormal><FONT face=Arial color=black size=2><SPAN 
+                  style="FONT-SIZE: 10pt; COLOR: black; FONT-FAMILY: Arial">Receipt</SPAN></FONT></P></TD></TR></TBODY></TABLE></TD></TR>
+        <TR>
+          <TD vAlign=top><INPUT type=radio value=A3 
+            name=I_JJp7VWchG5PcHsLr25080_M_F_RIdent1></TD>
+          <TD width="95%">
+            <TABLE class=MsoTableGrid 
+            style="BACKGROUND: white; BORDER-COLLAPSE: collapse" cellSpacing=0 
+            cellPadding=0 bgColor=white border=0>
+              <TBODY>
+              <TR>
+                <TD 
+                style="PADDING-RIGHT: 5.4pt; PADDING-LEFT: 5.4pt; PADDING-BOTTOM: 0in; WIDTH: 100%; PADDING-TOP: 0in" 
+                vAlign=top width="100%">
+                  <P class=MsoNormal><FONT face=Arial color=black size=2><SPAN 
+                  style="FONT-SIZE: 10pt; COLOR: black; FONT-FAMILY: Arial">Adjustment 
+                  Memo</SPAN></FONT></P></TD></TR></TBODY></TABLE></TD></TR></TBODY></TABLE></TD></TR></TBODY></TABLE>
+<SCRIPT>
+		MQBgnHtmArea('fb_I_JJp7VWchG5PcHsLr25080',true);
+		MQEndHtmArea('fb_I_JJp7VWchG5PcHsLr25080');
+		MQSetFdBk2('fb_I_JJp7VWchG5PcHsLr25080', getQTIPts('I_JJp7VWchG5PcHsLr25080'), getSolnLnk('I_JJp7VWchG5PcHsLr25080'), getfb_I_JJp7VWchG5PcHsLr25080())
+		MQEndQ('fb_I_JJp7VWchG5PcHsLr25080');
+		</SCRIPT>
+<BR><INPUT type=hidden 
+value=URN:IMS-PLIRID-V1:MFT:12345:qtiv1p2:I_zELJ1eDeRpbHX9i225080 name=Qids>
+<SCRIPT>MQBgnQ('fb_I_zELJ1eDeRpbHX9i225080');</SCRIPT>
+
+<TABLE cellSpacing=0 width=576 bgColor=#ffffff border=0>
+  <TBODY>
+  <TR>
+    <TD vAlign=top>
+      <TABLE class=MsoTableGrid 
+      style="BACKGROUND: white; BORDER-COLLAPSE: collapse" cellSpacing=0 
+      cellPadding=0 bgColor=white border=0>
+        <TBODY>
+        <TR>
+          <TD 
+          style="PADDING-RIGHT: 5.4pt; PADDING-LEFT: 5.4pt; PADDING-BOTTOM: 0in; WIDTH: 100%; PADDING-TOP: 0in" 
+          vAlign=top width="100%">
+            <P class=MsoNormal><FONT face=Arial color=black size=2><SPAN 
+            style="FONT-SIZE: 10pt; COLOR: black; FONT-FAMILY: Arial">Once a 
+            deposit is taken on a sales order, the system will automatically 
+            remove the SO Item(s) from 
+      inventory.</SPAN></FONT></P></TD></TR></TBODY></TABLE></TD></TR>
+  <TR>
+    <TD vAlign=top><INPUT type=hidden value=RIdent1 
+      name=I_zELJ1eDeRpbHX9i225080>
+      <TABLE cellSpacing=0 width="100%" bgColor=#ffffff border=0>
+        <TBODY>
+        <TR>
+          <TD vAlign=top><INPUT type=radio value=A0 
+            name=I_zELJ1eDeRpbHX9i225080_M_F_RIdent1></TD>
+          <TD width="95%">
+            <TABLE class=MsoTableGrid 
+            style="BACKGROUND: white; BORDER-COLLAPSE: collapse" cellSpacing=0 
+            cellPadding=0 bgColor=white border=0>
+              <TBODY>
+              <TR>
+                <TD 
+                style="PADDING-RIGHT: 5.4pt; PADDING-LEFT: 5.4pt; PADDING-BOTTOM: 0in; WIDTH: 100%; PADDING-TOP: 0in" 
+                vAlign=top width="100%">
+                  <P class=MsoNormal><FONT face=Arial color=black size=2><SPAN 
+                  style="FONT-SIZE: 10pt; COLOR: black; FONT-FAMILY: Arial">True</SPAN></FONT></P></TD></TR></TBODY></TABLE></TD></TR>
+        <TR>
+          <TD vAlign=top><INPUT type=radio value=A1 
+            name=I_zELJ1eDeRpbHX9i225080_M_F_RIdent1></TD>
+          <TD width="95%">
+            <TABLE class=MsoTableGrid 
+            style="BACKGROUND: white; BORDER-COLLAPSE: collapse" cellSpacing=0 
+            cellPadding=0 bgColor=white border=0>
+              <TBODY>
+              <TR>
+                <TD 
+                style="PADDING-RIGHT: 5.4pt; PADDING-LEFT: 5.4pt; PADDING-BOTTOM: 0in; WIDTH: 100%; PADDING-TOP: 0in" 
+                vAlign=top width="100%">
+                  <P class=MsoNormal><FONT face=Arial color=black size=2><SPAN 
+                  style="FONT-SIZE: 10pt; COLOR: black; FONT-FAMILY: Arial">False</SPAN></FONT></P></TD></TR></TBODY></TABLE></TD></TR></TBODY></TABLE></TD></TR></TBODY></TABLE>
+<SCRIPT>
+		MQBgnHtmArea('fb_I_zELJ1eDeRpbHX9i225080',true);
+		MQEndHtmArea('fb_I_zELJ1eDeRpbHX9i225080');
+		MQSetFdBk2('fb_I_zELJ1eDeRpbHX9i225080', getQTIPts('I_zELJ1eDeRpbHX9i225080'), getSolnLnk('I_zELJ1eDeRpbHX9i225080'), getfb_I_zELJ1eDeRpbHX9i225080())
+		MQEndQ('fb_I_zELJ1eDeRpbHX9i225080');
+		</SCRIPT>
+<BR><INPUT type=hidden 
+value=URN:IMS-PLIRID-V1:MFT:12345:qtiv1p2:I_MKtFavAQCLXvgC8m25080 name=Qids>
+<SCRIPT>MQBgnQ('fb_I_MKtFavAQCLXvgC8m25080');</SCRIPT>
+
+<TABLE cellSpacing=0 width=576 bgColor=#ffffff border=0>
+  <TBODY>
+  <TR>
+    <TD vAlign=top>
+      <TABLE class=MsoTableGrid 
+      style="BACKGROUND: white; BORDER-COLLAPSE: collapse" cellSpacing=0 
+      cellPadding=0 bgColor=white border=0>
+        <TBODY>
+        <TR>
+          <TD 
+          style="PADDING-RIGHT: 5.4pt; PADDING-LEFT: 5.4pt; PADDING-BOTTOM: 0in; WIDTH: 100%; PADDING-TOP: 0in" 
+          vAlign=top width="100%">
+            <P class=MsoNormal><FONT face=Arial color=black size=2><SPAN 
+            style="FONT-SIZE: 10pt; COLOR: black; FONT-FAMILY: Arial">Which of 
+            the following statements are true about the “Record Sale” 
+            functionality? (select all that 
+        apply)</SPAN></FONT></P></TD></TR></TBODY></TABLE></TD></TR>
+  <TR>
+    <TD vAlign=top><INPUT type=hidden value=RIdent1 
+      name=I_MKtFavAQCLXvgC8m25080>
+      <TABLE cellSpacing=0 width="100%" bgColor=#ffffff border=0>
+        <TBODY>
+        <TR>
+          <TD vAlign=top><INPUT type=checkbox value=A0 
+            name=I_MKtFavAQCLXvgC8m25080_M_F_RIdent1></TD>
+          <TD width="95%">
+            <TABLE class=MsoTableGrid 
+            style="BACKGROUND: white; BORDER-COLLAPSE: collapse" cellSpacing=0 
+            cellPadding=0 bgColor=white border=0>
+              <TBODY>
+              <TR>
+                <TD 
+                style="PADDING-RIGHT: 5.4pt; PADDING-LEFT: 5.4pt; PADDING-BOTTOM: 0in; WIDTH: 100%; PADDING-TOP: 0in" 
+                vAlign=top width="100%">
+                  <P class=MsoNormal><FONT face=Arial color=black size=2><SPAN 
+                  style="FONT-SIZE: 10pt; COLOR: black; FONT-FAMILY: Arial">Recording 
+                  sale will remove the SO items from 
+                inventory</SPAN></FONT></P></TD></TR></TBODY></TABLE></TD></TR>
+        <TR>
+          <TD vAlign=top><INPUT type=checkbox value=A1 
+            name=I_MKtFavAQCLXvgC8m25080_M_F_RIdent1></TD>
+          <TD width="95%">
+            <TABLE class=MsoTableGrid 
+            style="BACKGROUND: white; BORDER-COLLAPSE: collapse" cellSpacing=0 
+            cellPadding=0 bgColor=white border=0>
+              <TBODY>
+              <TR>
+                <TD 
+                style="PADDING-RIGHT: 5.4pt; PADDING-LEFT: 5.4pt; PADDING-BOTTOM: 0in; WIDTH: 100%; PADDING-TOP: 0in" 
+                vAlign=top width="100%">
+                  <P class=MsoNormal><FONT face=Arial color=black size=2><SPAN 
+                  style="FONT-SIZE: 10pt; COLOR: black; FONT-FAMILY: Arial">The 
+                  system can be set up to require a deposit before you can 
+                  record sale on a sales 
+            order</SPAN></FONT></P></TD></TR></TBODY></TABLE></TD></TR>
+        <TR>
+          <TD vAlign=top><INPUT type=checkbox value=A2 
+            name=I_MKtFavAQCLXvgC8m25080_M_F_RIdent1></TD>
+          <TD width="95%">
+            <TABLE class=MsoTableGrid 
+            style="BACKGROUND: white; BORDER-COLLAPSE: collapse" cellSpacing=0 
+            cellPadding=0 bgColor=white border=0>
+              <TBODY>
+              <TR>
+                <TD 
+                style="PADDING-RIGHT: 5.4pt; PADDING-LEFT: 5.4pt; PADDING-BOTTOM: 0in; WIDTH: 100%; PADDING-TOP: 0in" 
+                vAlign=top width="100%">
+                  <P class=MsoNormal><FONT face=Arial color=black size=2><SPAN 
+                  style="FONT-SIZE: 10pt; COLOR: black; FONT-FAMILY: Arial">After 
+                  recording the sale, </SPAN></FONT><FONT face=Arial 
+                  size=2><SPAN style="FONT-SIZE: 10pt; FONT-FAMILY: Arial">the 
+                  retailer would not need to create another receipt later when 
+                  the customer returns to pick up the reserved 
+                  item</SPAN></FONT></P></TD></TR></TBODY></TABLE></TD></TR>
+        <TR>
+          <TD vAlign=top><INPUT type=checkbox value=A3 
+            name=I_MKtFavAQCLXvgC8m25080_M_F_RIdent1></TD>
+          <TD width="95%">
+            <TABLE class=MsoTableGrid 
+            style="BACKGROUND: white; BORDER-COLLAPSE: collapse" cellSpacing=0 
+            cellPadding=0 bgColor=white border=0>
+              <TBODY>
+              <TR>
+                <TD 
+                style="PADDING-RIGHT: 5.4pt; PADDING-LEFT: 5.4pt; PADDING-BOTTOM: 0in; WIDTH: 100%; PADDING-TOP: 0in" 
+                vAlign=top width="100%">
+                  <P class=MsoNormal><FONT face=Arial color=black size=2><SPAN 
+                  style="FONT-SIZE: 10pt; COLOR: black; FONT-FAMILY: Arial">Recording 
+                  sale is typically completed on Layaway SOs and not the other 
+                  SO 
+      types</SPAN></FONT></P></TD></TR></TBODY></TABLE></TD></TR></TBODY></TABLE></TD></TR></TBODY></TABLE>
+<SCRIPT>
+		MQBgnHtmArea('fb_I_MKtFavAQCLXvgC8m25080',true);
+		MQEndHtmArea('fb_I_MKtFavAQCLXvgC8m25080');
+		MQSetFdBk2('fb_I_MKtFavAQCLXvgC8m25080', getQTIPts('I_MKtFavAQCLXvgC8m25080'), getSolnLnk('I_MKtFavAQCLXvgC8m25080'), getfb_I_MKtFavAQCLXvgC8m25080())
+		MQEndQ('fb_I_MKtFavAQCLXvgC8m25080');
+		</SCRIPT>
+<BR><INPUT type=hidden 
+value=URN:IMS-PLIRID-V1:MFT:12345:qtiv1p2:I_lS1M8bDLCBKjOHnX25080 name=Qids>
+<SCRIPT>MQBgnQ('fb_I_lS1M8bDLCBKjOHnX25080');</SCRIPT>
+
+<TABLE cellSpacing=0 width=576 bgColor=#ffffff border=0>
+  <TBODY>
+  <TR>
+    <TD vAlign=top>
+      <TABLE class=MsoTableGrid 
+      style="BACKGROUND: white; BORDER-COLLAPSE: collapse" cellSpacing=0 
+      cellPadding=0 bgColor=white border=0>
+        <TBODY>
+        <TR>
+          <TD 
+          style="PADDING-RIGHT: 5.4pt; PADDING-LEFT: 5.4pt; PADDING-BOTTOM: 0in; WIDTH: 100%; PADDING-TOP: 0in" 
+          vAlign=top width="100%">
+            <P class=MsoNormal><FONT face=Arial color=black size=2><SPAN 
+            style="FONT-SIZE: 10pt; COLOR: black; FONT-FAMILY: Arial">Because 
+            Special Order SOs are used to track</SPAN></FONT><FONT face=Arial 
+            size=2><SPAN style="FONT-SIZE: 10pt; FONT-FAMILY: Arial"> the future 
+            sale of merchandise you normally do not carry in inventory, you will 
+            need to create a dummy item in inventory for future listing on these 
+            Special Order SOs.</SPAN></FONT></P></TD></TR></TBODY></TABLE></TD></TR>
+  <TR>
+    <TD vAlign=top><INPUT type=hidden value=RIdent1 
+      name=I_lS1M8bDLCBKjOHnX25080>
+      <TABLE cellSpacing=0 width="100%" bgColor=#ffffff border=0>
+        <TBODY>
+        <TR>
+          <TD vAlign=top><INPUT type=radio value=A0 
+            name=I_lS1M8bDLCBKjOHnX25080_M_F_RIdent1></TD>
+          <TD width="95%">
+            <TABLE class=MsoTableGrid 
+            style="BACKGROUND: white; BORDER-COLLAPSE: collapse" cellSpacing=0 
+            cellPadding=0 bgColor=white border=0>
+              <TBODY>
+              <TR>
+                <TD 
+                style="PADDING-RIGHT: 5.4pt; PADDING-LEFT: 5.4pt; PADDING-BOTTOM: 0in; WIDTH: 100%; PADDING-TOP: 0in" 
+                vAlign=top width="100%">
+                  <P class=MsoNormal><FONT face=Arial color=black size=2><SPAN 
+                  style="FONT-SIZE: 10pt; COLOR: black; FONT-FAMILY: Arial">True</SPAN></FONT></P></TD></TR></TBODY></TABLE></TD></TR>
+        <TR>
+          <TD vAlign=top><INPUT type=radio value=A1 
+            name=I_lS1M8bDLCBKjOHnX25080_M_F_RIdent1></TD>
+          <TD width="95%">
+            <TABLE class=MsoTableGrid 
+            style="BACKGROUND: white; BORDER-COLLAPSE: collapse" cellSpacing=0 
+            cellPadding=0 bgColor=white border=0>
+              <TBODY>
+              <TR>
+                <TD 
+                style="PADDING-RIGHT: 5.4pt; PADDING-LEFT: 5.4pt; PADDING-BOTTOM: 0in; WIDTH: 100%; PADDING-TOP: 0in" 
+                vAlign=top width="100%">
+                  <P class=MsoNormal><FONT face=Arial color=black size=2><SPAN 
+                  style="FONT-SIZE: 10pt; COLOR: black; FONT-FAMILY: Arial">False</SPAN></FONT></P></TD></TR></TBODY></TABLE></TD></TR></TBODY></TABLE></TD></TR></TBODY></TABLE>
+<SCRIPT>
+		MQBgnHtmArea('fb_I_lS1M8bDLCBKjOHnX25080',true);
+		MQEndHtmArea('fb_I_lS1M8bDLCBKjOHnX25080');
+		MQSetFdBk2('fb_I_lS1M8bDLCBKjOHnX25080', getQTIPts('I_lS1M8bDLCBKjOHnX25080'), getSolnLnk('I_lS1M8bDLCBKjOHnX25080'), getfb_I_lS1M8bDLCBKjOHnX25080())
+		MQEndQ('fb_I_lS1M8bDLCBKjOHnX25080');
+		</SCRIPT>
+<BR><INPUT type=hidden 
+value=URN:IMS-PLIRID-V1:MFT:12345:qtiv1p2:I_Kxdjrz3fGHVHC11K25080 name=Qids>
+<SCRIPT>MQBgnQ('fb_I_Kxdjrz3fGHVHC11K25080');</SCRIPT>
+
+<TABLE cellSpacing=0 width=576 bgColor=#ffffff border=0>
+  <TBODY>
+  <TR>
+    <TD vAlign=top>
+      <TABLE class=MsoTableGrid 
+      style="BACKGROUND: white; BORDER-COLLAPSE: collapse" cellSpacing=0 
+      cellPadding=0 bgColor=white border=0>
+        <TBODY>
+        <TR>
+          <TD 
+          style="PADDING-RIGHT: 5.4pt; PADDING-LEFT: 5.4pt; PADDING-BOTTOM: 0in; WIDTH: 100%; PADDING-TOP: 0in" 
+          vAlign=top width="100%">
+            <P class=MsoNormal><FONT face=Arial color=black size=2><SPAN 
+            style="FONT-SIZE: 10pt; COLOR: black; FONT-FAMILY: Arial">Which type 
+            of Registry SO will allow you to access the gift registry at all 
+            stores within a given 
+      subsidiary?</SPAN></FONT></P></TD></TR></TBODY></TABLE></TD></TR>
+  <TR>
+    <TD vAlign=top><INPUT type=hidden value=RIdent1 
+      name=I_Kxdjrz3fGHVHC11K25080>
+      <TABLE cellSpacing=0 width="100%" bgColor=#ffffff border=0>
+        <TBODY>
+        <TR>
+          <TD vAlign=top><INPUT type=radio value=A0 
+            name=I_Kxdjrz3fGHVHC11K25080_M_F_RIdent1></TD>
+          <TD width="95%">
+            <TABLE class=MsoTableGrid 
+            style="BACKGROUND: white; BORDER-COLLAPSE: collapse" cellSpacing=0 
+            cellPadding=0 bgColor=white border=0>
+              <TBODY>
+              <TR>
+                <TD 
+                style="PADDING-RIGHT: 5.4pt; PADDING-LEFT: 5.4pt; PADDING-BOTTOM: 0in; WIDTH: 100%; PADDING-TOP: 0in" 
+                vAlign=top width="100%">
+                  <P class=MsoNormal><FONT face=Arial color=black size=2><SPAN 
+                  style="FONT-SIZE: 10pt; COLOR: black; FONT-FAMILY: Arial">Store 
+                  Registry</SPAN></FONT></P></TD></TR></TBODY></TABLE></TD></TR>
+        <TR>
+          <TD vAlign=top><INPUT type=radio value=A1 
+            name=I_Kxdjrz3fGHVHC11K25080_M_F_RIdent1></TD>
+          <TD width="95%">
+            <TABLE class=MsoTableGrid 
+            style="BACKGROUND: white; BORDER-COLLAPSE: collapse" cellSpacing=0 
+            cellPadding=0 bgColor=white border=0>
+              <TBODY>
+              <TR>
+                <TD 
+                style="PADDING-RIGHT: 5.4pt; PADDING-LEFT: 5.4pt; PADDING-BOTTOM: 0in; WIDTH: 100%; PADDING-TOP: 0in" 
+                vAlign=top width="100%">
+                  <P class=MsoNormal><FONT face=Arial color=black size=2><SPAN 
+                  style="FONT-SIZE: 10pt; COLOR: black; FONT-FAMILY: Arial">Company 
+                  Registry</SPAN></FONT></P></TD></TR></TBODY></TABLE></TD></TR></TBODY></TABLE></TD></TR></TBODY></TABLE>
+<SCRIPT>
+		MQBgnHtmArea('fb_I_Kxdjrz3fGHVHC11K25080',true);
+		MQEndHtmArea('fb_I_Kxdjrz3fGHVHC11K25080');
+		MQSetFdBk2('fb_I_Kxdjrz3fGHVHC11K25080', getQTIPts('I_Kxdjrz3fGHVHC11K25080'), getSolnLnk('I_Kxdjrz3fGHVHC11K25080'), getfb_I_Kxdjrz3fGHVHC11K25080())
+		MQEndQ('fb_I_Kxdjrz3fGHVHC11K25080');
+		</SCRIPT>
+<BR><INPUT type=hidden 
+value=URN:IMS-PLIRID-V1:MFT:12345:qtiv1p2:I_FSAWy7JZhMqLQGGV25080 name=Qids>
+<SCRIPT>MQBgnQ('fb_I_FSAWy7JZhMqLQGGV25080');</SCRIPT>
+
+<TABLE cellSpacing=0 width=576 bgColor=#ffffff border=0>
+  <TBODY>
+  <TR>
+    <TD vAlign=top>
+      <TABLE class=MsoTableGrid 
+      style="BACKGROUND: white; BORDER-COLLAPSE: collapse" cellSpacing=0 
+      cellPadding=0 bgColor=white border=0>
+        <TBODY>
+        <TR>
+          <TD 
+          style="PADDING-RIGHT: 5.4pt; PADDING-LEFT: 5.4pt; PADDING-BOTTOM: 0in; WIDTH: 100%; PADDING-TOP: 0in" 
+          vAlign=top width="100%">
+            <P class=MsoNormal><FONT face=Arial color=black size=2><SPAN 
+            style="FONT-SIZE: 10pt; COLOR: black; FONT-FAMILY: Arial">You can 
+            generate a purchase order directly from a Special Order SO or a 
+            Customer Order SO?</SPAN></FONT></P></TD></TR></TBODY></TABLE></TD></TR>
+  <TR>
+    <TD vAlign=top><INPUT type=hidden value=RIdent1 
+      name=I_FSAWy7JZhMqLQGGV25080>
+      <TABLE cellSpacing=0 width="100%" bgColor=#ffffff border=0>
+        <TBODY>
+        <TR>
+          <TD vAlign=top><INPUT type=radio value=A0 
+            name=I_FSAWy7JZhMqLQGGV25080_M_F_RIdent1></TD>
+          <TD width="95%">
+            <TABLE class=MsoTableGrid 
+            style="BACKGROUND: white; BORDER-COLLAPSE: collapse" cellSpacing=0 
+            cellPadding=0 bgColor=white border=0>
+              <TBODY>
+              <TR>
+                <TD 
+                style="PADDING-RIGHT: 5.4pt; PADDING-LEFT: 5.4pt; PADDING-BOTTOM: 0in; WIDTH: 100%; PADDING-TOP: 0in" 
+                vAlign=top width="100%">
+                  <P class=MsoNormal><FONT face=Arial color=black size=2><SPAN 
+                  style="FONT-SIZE: 10pt; COLOR: black; FONT-FAMILY: Arial">True</SPAN></FONT></P></TD></TR></TBODY></TABLE></TD></TR>
+        <TR>
+          <TD vAlign=top><INPUT type=radio value=A1 
+            name=I_FSAWy7JZhMqLQGGV25080_M_F_RIdent1></TD>
+          <TD width="95%">
+            <TABLE class=MsoTableGrid 
+            style="BACKGROUND: white; BORDER-COLLAPSE: collapse" cellSpacing=0 
+            cellPadding=0 bgColor=white border=0>
+              <TBODY>
+              <TR>
+                <TD 
+                style="PADDING-RIGHT: 5.4pt; PADDING-LEFT: 5.4pt; PADDING-BOTTOM: 0in; WIDTH: 100%; PADDING-TOP: 0in" 
+                vAlign=top width="100%">
+                  <P class=MsoNormal><FONT face=Arial color=black size=2><SPAN 
+                  style="FONT-SIZE: 10pt; COLOR: black; FONT-FAMILY: Arial">False</SPAN></FONT></P></TD></TR></TBODY></TABLE></TD></TR></TBODY></TABLE></TD></TR></TBODY></TABLE>
+<SCRIPT>
+		MQBgnHtmArea('fb_I_FSAWy7JZhMqLQGGV25080',true);
+		MQEndHtmArea('fb_I_FSAWy7JZhMqLQGGV25080');
+		MQSetFdBk2('fb_I_FSAWy7JZhMqLQGGV25080', getQTIPts('I_FSAWy7JZhMqLQGGV25080'), getSolnLnk('I_FSAWy7JZhMqLQGGV25080'), getfb_I_FSAWy7JZhMqL
